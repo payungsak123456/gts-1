@@ -1,0 +1,128 @@
+.home .text-neon {
+	color: #f1c40f;
+	text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #d4ac0d, 0 0 40px #d4ac0d,
+		0 0 50px #d4ac0d, 0 0 60px #d4ac0d, 0 0 70px #d4ac0d;
+
+	-webkit-animation: glow 1s ease-in-out infinite alternate;
+	-moz-animation: glow 1s ease-in-out infinite alternate;
+	animation: glow 1s ease-in-out infinite alternate;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #f1c40f;
+}
+.text-nav {
+	-webkit-text-fill-color: #f1c40f;
+}
+.text-neno-titel {
+	-webkit-text-fill-color: #f1c40f;
+	text-shadow: 0 0 10px #000, 0 0 20px #000, 0 0 30px #000, 0 0 40px #fff,
+		0 0 50px #fff;
+}
+.text-login {
+	color: #d4ac0d;
+	text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #fff,
+		0 0 50px #fff, 0 0 60px #fff, 0 0 70px #fff;
+
+	-webkit-animation: glow 1s ease-in-out infinite alternate;
+	-moz-animation: glow 1s ease-in-out infinite alternate;
+	animation: glow 1s ease-in-out infinite alternate;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #ffffff;
+}
+.home .form-control::-webkit-input-placeholder {
+	color: #f1c40f;
+	font-weight: bold;
+}
+.footer {
+	border-top: #e2c700 5px solid;
+	background: #000;
+}
+.image {
+	object-fit: fill;
+}
+.test {
+	color: #000000;
+	text-shadow: 0 0 10px rgb(230, 215, 12), 0 0 20px rgb(0, 0, 0),
+		0 0 30px #ffffff, 0 0 40px #ffffff, 0 0 50px #ffffff, 0 0 60px #ffffff,
+		0 0 70px #ffffff;
+
+	-webkit-animation: glow 1s ease-in-out infinite alternate;
+	-moz-animation: glow 1s ease-in-out infinite alternate;
+	animation: glow 1s ease-in-out infinite alternate;
+}
+.home .text-neon-bg {
+	background-color: #070b28;
+}
+
+.home .cards-list {
+	z-index: 0;
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+.home .card {
+	margin: 30px auto;
+	width: 400px;
+	height: 200px;
+	border-radius: 40px;
+	box-shadow: 5px 5px 30px 7px rgba(0, 0, 0, 0.25),
+		-5px -5px 30px 7px rgba(0, 0, 0, 0.22);
+	cursor: pointer;
+	transition: 0.4s;
+}
+
+.home .card .card_image {
+	width: inherit;
+	height: inherit;
+	border-radius: 40px;
+}
+
+.home .card .card_image img {
+	width: inherit;
+	height: inherit;
+	border-radius: 40px;
+	object-fit: cover;
+}
+
+.home .card .card_title {
+	text-align: center;
+	border-radius: 0px 0px 40px 40px;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 30px;
+	margin-top: -80px;
+	height: 40px;
+}
+
+.home .card:hover {
+	transform: scale(0.9, 0.9);
+	box-shadow: 5px 5px 30px 15px rgba(0, 0, 0, 0.25),
+		-5px -5px 30px 15px rgba(0, 0, 0, 0.22);
+}
+
+.home .title-white {
+	color: white;
+}
+
+.home .title-black {
+	color: black;
+}
+.home.bg {
+	background: rgb(6, 12, 75);
+	/* background: -webkit-linear-gradient(red, yellow); 
+    background: -o-linear-gradient(red, yellow); 
+    background: -moz-linear-gradient(red, yellow);
+    background: linear-gradient(red, yellow);  */
+}
+
+@media all and (max-width: 500px) {
+	.home .card-list {
+		/* On small screens, we are no longer using row direction but column */
+		flex-direction: column;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+    
+}
