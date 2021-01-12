@@ -10,7 +10,11 @@
     "next": "latest",
     "next-seo": "latest",
     "react": "^16.7.0",
-    "react-dom": "^16.7.0"
+    "react-dom": "^16.7.0",
+    "sass": "^1.32.4",
+    "scss": "^0.2.4",
+    "scss-loader": "0.0.1",
+    "swiper": "^6.4.5"
   },
   "license": "MIT"
 }

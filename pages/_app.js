@@ -7,6 +7,8 @@ import { DefaultSeo } from 'next-seo'
 
 import SEO from '../next-seo.config'
 
+// Import Swiper styles
+import "swiper/swiper.scss";
 export default function MyApp({ Component, pageProps }) {
   return (
     /* Here we call NextSeo and pass our default configuration to it  */
