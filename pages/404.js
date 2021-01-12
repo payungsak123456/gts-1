@@ -1,11 +1,10 @@
-import Link from "next/link";
 import Head from "next/head";
 
 export default function FourOhFour() {
   return (
     <>
       <Head>
-        <title>Dooplo - Gaming HTML Template</title>
+        <title>GTS - GOLD 168 ERROR 404</title>
         {/* <!-- favicon --> */}
         <link
           rel="shortcut icon"
