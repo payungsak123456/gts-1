@@ -1,5 +1,6 @@
 import { NextSeo } from "next-seo";
 import Head from "next/head";
+import GameList from './listpage/GameList'
 import { Swiper, SwiperSlide } from "swiper/react";
 export default function Home() {
 	return (
@@ -226,7 +227,7 @@ export default function Home() {
 					>
 						<SwiperSlide>
 							<img
-								src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/91cb3490-bd89-448c-9f9c-251580f3b506/d1xmrdi-9511f0ac-61f2-4730-96df-7336cfdcb6ab.jpg/v1/fill/w_1024,h_769,q_75,strp/casino_gano_by_rodrigozenteno_d1xmrdi-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD03NjkiLCJwYXRoIjoiXC9mXC85MWNiMzQ5MC1iZDg5LTQ0OGMtOWY5Yy0yNTE1ODBmM2I1MDZcL2QxeG1yZGktOTUxMWYwYWMtNjFmMi00NzMwLTk2ZGYtNzMzNmNmZGNiNmFiLmpwZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.5kr_WWXKuSkN8o7cCBj27dkVyQFD1I45vF84o5D_YE0"
+								src="assets/images/home/pera4.png"
 								style={{
 									maxwidth: "initial",
 									width: "100%",
@@ -239,7 +240,7 @@ export default function Home() {
 									maxwidth: "initial",
 									width: "100%",
 								}}
-								src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/879d8433-7188-412f-9a05-7ccf9f50f07f/dkxwj8-c93205d8-94cd-44e0-8e4b-49eb1409ebfd.jpg/v1/fill/w_1024,h_768,q_75,strp/poker_night_by_andyprower_dkxwj8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD03NjgiLCJwYXRoIjoiXC9mXC84NzlkODQzMy03MTg4LTQxMmYtOWEwNS03Y2NmOWY1MGYwN2ZcL2RreHdqOC1jOTMyMDVkOC05NGNkLTQ0ZTAtOGU0Yi00OWViMTQwOWViZmQuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.cvaSmLktWlhgvWBp1IhMNHvPOeomOsrEd-QE0o7puxU"
+								src="assets/images/home/pera4.png"
 							></img>
 						</SwiperSlide>
 						<SwiperSlide>
@@ -248,71 +249,11 @@ export default function Home() {
 									maxwidth: "initial",
 									width: "100%",
 								}}
-								src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/66ce6a09-200e-40c9-a87c-40a3f39876d5/d20yavo-a014cc6c-ea3b-406e-ad85-f5dd4854b86c.jpg/v1/fill/w_1032,h_774,q_70,strp/love_just_like_gamble_by_foreverkatz_d20yavo-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0yNDQ4IiwicGF0aCI6IlwvZlwvNjZjZTZhMDktMjAwZS00MGM5LWE4N2MtNDBhM2YzOTg3NmQ1XC9kMjB5YXZvLWEwMTRjYzZjLWVhM2ItNDA2ZS1hZDg1LWY1ZGQ0ODU0Yjg2Yy5qcGciLCJ3aWR0aCI6Ijw9MzI2NCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.-Ry3hXs6fIRrz7Nyyzt8NfPrsAlLU7Ru5Gjo7ZxP5jA"
+								src="assets/images/home/pera4.png"
 							></img>
 						</SwiperSlide>
 					</Swiper>
-					<div className="cards-list">
-						<div className="card 1">
-							<div className="card_image">
-								{" "}
-								<img src="https://www.casinofevers.com/wp-content/uploads/2019/05/casino-fever-sexy-baccarat-300x169.png" />{" "}
-							</div>
-						</div>
-						<div className="card 1">
-							<div className="card_image">
-								{" "}
-								<img src="https://www.casinofevers.com/wp-content/uploads/2019/05/casino-fever-baccarat-300x169.png" />{" "}
-							</div>
-						</div>
-						<div className="card 1">
-							<div className="card_image">
-								{" "}
-								<img src="https://www.casinofevers.com/wp-content/uploads/2019/05/casino-fever-roulette-300x169.png" />{" "}
-							</div>
-						</div>
-						<div className="card 1">
-							<div className="card_image">
-								{" "}
-								<img src="https://www.casinofevers.com/wp-content/uploads/2019/05/casino-fever-dragon-tiger-300x169.png" />{" "}
-							</div>
-						</div>
-						<div className="card 1">
-							<div className="card_image">
-								{" "}
-								<img src="https://www.casinofevers.com/wp-content/uploads/2019/05/casino-fever-bull-fight-300x169.png" />{" "}
-							</div>
-						</div>
-						<div className="card 1">
-							<div className="card_image">
-								{" "}
-								<img src="https://www.casinofevers.com/wp-content/uploads/2019/05/casino-fever-sic-bo-300x169.png" />{" "}
-							</div>
-						</div>
-						<div className="card 1">
-							<div className="card_image">
-								{" "}
-								<img src="https://www.casinofevers.com/wp-content/uploads/2019/05/casino-fever-fantan-300x169.png" />{" "}
-							</div>
-						</div>
-						<div className="card 1">
-							<div className="card_image">
-								{" "}
-								<img src="https://www.casinofevers.com/wp-content/uploads/2019/05/casino-fever-fish-hunter-300x169.png" />{" "}
-							</div>
-						</div>
-						<div className="card 1">
-							<div className="card_image">
-								{" "}
-								<img src="https://www.casinofevers.com/wp-content/uploads/2019/05/casino-fever-cock-fight-300x169.png" />{" "}
-							</div>
-						</div>
-					</div>
-					<div className="row">
-						<div className="col-12">
-							<img src="assets/images/home/โฆษณา2.png"></img>
-						</div>
-					</div>
+					
 					<div className="row">
 						<div className="col-md-6">
 							<div className="image">
@@ -458,7 +399,9 @@ export default function Home() {
 							จะเรียกว่านั่งนับเงินรอความรวยกันไปเลย
 						</b>
 					</div>
+					<GameList/>
 				</div>
+				
 				<footer className="pb-5 footer">
 					<div className="container">
 						<div className="row text-light pl-5">
