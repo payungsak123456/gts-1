@@ -4,7 +4,7 @@ import GameList from "./listPage/GameList";
 import { Swiper, SwiperSlide } from "swiper/react";
 import Layout from "../components/Layout";
 
-export default function Home() {
+export default function Casino() {
   return (
     <>
       <NextSeo
@@ -468,6 +468,18 @@ export default function Home() {
               </a>
             </div>
           </div>
+          <script src="assets/js/jquery.js"></script>
+
+          <script src="assets/js/popper.min.js"></script>
+
+          <script src="assets/js/bootstrap.min.js"></script>
+
+          <script src="assets/js/plugin.js"></script>
+
+          <script src="assets/js/TweenMax.js"></script>
+          <script src="assets/js/mousemoveparallax.js"></script>
+
+          <script src="assets/js/main.js"></script>
         </Layout>
       </div>
     </>
