@@ -56,13 +56,48 @@
 a:hover,
 a:focus,
 a:active {
-	color: #f1c40f;
+	color: #ffe16a;
 }
-
-.m-contact {
-	display: none;
+.body{
+	color: beige;
 }
+@media only screen and (min-width: 1100px) {
+	.m-contact {
+		display: block;
+		position: fixed;
+		z-index: 9999;
+		width: 100%;
+		border-top: 1px solid #333;
+		bottom: 0;
+		background: #151515;
+	}
 
+	.o-contact {
+		width: 25%;
+		border-left: 1px solid #333;
+		float: left;
+		display: block;
+		text-align: center;
+		padding: 5px 0;
+	}
+
+	.text-contact {
+		display: inline;
+	}
+
+	.contact-info {
+		color: #efefef;
+		font-size: 18px;
+		font-family: prompt;
+	}
+
+	.contact-icon {
+		font-size: 32px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
 @media only screen and (max-width: 1100px) {
 	.m-contact {
 		display: block;
@@ -627,7 +662,7 @@ select:focus {
 
 .loader-1 .loader-outter {
 	position: absolute;
-	border: 4px solid #f1c40f;
+	border: 4px solid #ffe16a;
 	border-left-color: transparent;
 	border-bottom: 0;
 	width: 100%;
@@ -640,7 +675,7 @@ select:focus {
 
 .loader-1 .loader-inner {
 	position: absolute;
-	border: 4px solid #f1c40f;
+	border: 4px solid #ffe16a;
 	border-radius: 50%;
 	width: 40px;
 	height: 40px;
@@ -716,7 +751,7 @@ select:focus {
 	-webkit-box-shadow: 0px 0px 21px 0px rgba(0, 0, 0, 0.2);
 	box-shadow: 0px 0px 21px 0px rgba(0, 0, 0, 0.2);
 	z-index: 999;
-	background: #f1c40f;
+	background: #ffe16a;
 }
 
 /* Breadcrumb Area Start */
@@ -1301,7 +1336,7 @@ select:focus {
 	.list
 	li
 	a:hover {
-	color: #f1c40f;
+	color: #ffe16a;
 }
 .header
 	.top-header
@@ -1387,7 +1422,7 @@ select:focus {
 	color: #a1aed4;
 }
 .header .mainmenu-area {
-	background: #0a0a0a;
+	background-image: linear-gradient(to bottom, #2d2d2d, #292929, #262626, #222222, #1f1f1f, #1c1c1c, #191919, #161616, #121212, #0d0d0d, #070707, #000000);
 }
 .header .mainmenu-area .navbar {
 	padding: 0px 0px;
@@ -1400,7 +1435,7 @@ select:focus {
 	height: 100px;
 	top: 0;
 	right: 100%;
-	background: #000;
+	background: rgba(0, 0, 0, 0);
 }
 .header .mainmenu-area .navbar::after {
 	position: absolute;
@@ -1409,7 +1444,7 @@ select:focus {
 	height: 0;
 	left: 0px;
 	bottom: 0px;
-	border-bottom: 83px solid #000;
+	border-bottom: 83px solid rgba(0, 0, 0, 0);
 	border-right: 35px solid transparent;
 }
 .header .mainmenu-area .navbar .navbar-brand {
@@ -1449,8 +1484,8 @@ select:focus {
 	width: 100%;
 	height: 50%;
 	opacity: 0;
-	border-top: 2px solid #f1c40f;
-	border-bottom: 2px solid #f1c40f;
+	border-top: 2px solid #ffe16a;
+	border-bottom: 2px solid #ffe16a;
 	-webkit-transition: all 0.3s ease-in;
 	-o-transition: all 0.3s ease-in;
 	transition: all 0.3s ease-in;
@@ -1474,7 +1509,7 @@ select:focus {
 	height: 0;
 	border-left: 5px solid transparent;
 	border-right: 5px solid transparent;
-	border-top: 5px solid #f1c40f;
+	border-top: 5px solid #ffe16a;
 }
 .header
 	.mainmenu-area
@@ -1495,7 +1530,7 @@ select:focus {
 	height: 0;
 	border-left: 5px solid transparent;
 	border-right: 5px solid transparent;
-	border-top: 5px solid #f1c40f;
+	border-top: 5px solid #ffe16a;
 }
 .header
 	.mainmenu-area
@@ -1511,7 +1546,7 @@ select:focus {
 	.navbar-nav
 	.nav-item
 	.nav-link:hover {
-	color: #f1c40f;
+	color: #ffe16a;
 }
 .header
 	.mainmenu-area
@@ -1543,7 +1578,7 @@ select:focus {
 	padding-top: 0px;
 	-webkit-box-shadow: 0px 8px 14px 0px rgba(0, 0, 0, 0.15);
 	box-shadow: 0px 8px 14px 0px rgba(0, 0, 0, 0.15);
-	border-top: 4px solid #f1c40f;
+	border-top: 4px solid #ffe16a;
 	-webkit-transition: all linear 0.3s;
 	-o-transition: all linear 0.3s;
 	transition: all linear 0.3s;
@@ -1611,7 +1646,7 @@ select:focus {
 
 /* Footer Area Start */
 .footer {
-	padding-top: 120px;
+	padding-top: 2rem;
 	overflow: hidden;
 	position: relative;
 	background-color: #000;
@@ -1646,7 +1681,7 @@ select:focus {
 	color: #a1aed4;
 }
 .footer .footer-widget ul li a:hover {
-	color: #f1c40f;
+	color: #ffe16a;
 	padding-left: 10px;
 }
 .footer .footer-widget ul li a i {
@@ -1699,7 +1734,7 @@ select:focus {
 	transition: all 0.3s ease-in;
 }
 .footer .copy-bg .copright-area-links li a:hover {
-	color: #f1c40f;
+	color: #ffe16a;
 }
 .footer .subscribe-box {
 	margin-bottom: 110px;
@@ -1822,7 +1857,7 @@ select:focus {
 /* Hero Area Start */
 .hero-area {
 	position: relative;
-	padding: 108px 0px 354px;
+	padding: 108px 0px 50px;
 	position: relative;
 	background: #000;
 	overflow: hidden;
@@ -2005,7 +2040,7 @@ select:focus {
 	z-index: 1;
 }
 .features .single-feature .icon.one {
-	border: 7px solid #f1c40f;
+	border: 7px solid #ffe16a;
 	border-radius: 50%;
 	text-align: center;
 	display: inline-block;
@@ -2097,14 +2132,14 @@ select:focus {
 	border-radius: 50px;
 }
 .features .single-feature .content .link:hover {
-	color: #f1c40f;
+	color: #ffe16a;
 }
 .features .single-feature .content .link:hover i {
-	color: #f1c40f;
+	color: #ffe16a;
 	padding-left: 10px;
 }
 .features .single-feature .content .link:hover i::after {
-	background: #f1c40f;
+	background: #ffe16a;
 }
 .features .single-feature:hover {
 	-webkit-transform: translateY(-10px);
@@ -2352,7 +2387,7 @@ select:focus {
 	margin: 0px 5px;
 }
 .activities .tab-menu-area .nav-lend .nav-item .nav-link.active {
-	background: #f1c40f;
+	background: #ffe16a;
 	color: #fff;
 }
 .activities .table {
@@ -2734,7 +2769,7 @@ select:focus {
 	display: inline-block;
 }
 .our-vision .single-vision .icon.one {
-	background: #f1c40f;
+	background: #ffe16a;
 	-webkit-box-shadow: 0px 0px 0px 10px rgba(249, 49, 75, 0.2),
 		0px 0px 0px 20px rgba(249, 49, 75, 0.2);
 	box-shadow: 0px 0px 0px 10px rgba(249, 49, 75, 0.2),
@@ -2792,14 +2827,14 @@ select:focus {
 	border-radius: 50px;
 }
 .our-vision .single-vision .content .link:hover {
-	color: #f1c40f;
+	color: #ffe16a;
 }
 .our-vision .single-vision .content .link:hover i {
-	color: #f1c40f;
+	color: #ffe16a;
 	padding-left: 10px;
 }
 .our-vision .single-vision .content .link:hover i::after {
-	background: #f1c40f;
+	background: #ffe16a;
 }
 .our-vision .single-vision:hover {
 	-webkit-transform: translateY(-10px);
@@ -2906,7 +2941,7 @@ select:focus {
 	.image
 	.content
 	.designation {
-	color: #f1c40f;
+	color: #ffe16a;
 	font-size: 20px;
 	line-height: 30px;
 }
@@ -2967,7 +3002,7 @@ select:focus {
 	.social-links
 	li
 	a:hover {
-	color: #f1c40f;
+	color: #ffe16a;
 }
 .team .team-members .team-member-inner .single-team:hover {
 	-webkit-transform: translateY(-10px);
@@ -3142,7 +3177,7 @@ select:focus {
 	.text {
 	font-size: 14px;
 	line-height: 24px;
-	color: #f1c40f;
+	color: #ffe16a;
 	margin-bottom: 0px;
 }
 .play-games
@@ -3303,7 +3338,7 @@ select:focus {
 	color: #2eb7eb;
 }
 .play-games .all-games .nav li a.active {
-	border-color: #f1c40f !important;
+	border-color: #ffe16a !important;
 }
 .play-games .all-games .nav li a.active .icon .one {
 	display: none;
@@ -3640,7 +3675,7 @@ select:focus {
 	display: inline-block;
 	margin: 3px;
 	font-weight: 600;
-	color: #f1c40f;
+	color: #ffe16a;
 	border-radius: 50%;
 	background-image: -moz-linear-gradient(
 		26deg,
@@ -3948,7 +3983,7 @@ select:focus {
 }
 .cart-area .cart-table-area .table tr td .qty ul li .qtminus:hover,
 .cart-area .cart-table-area .table tr td .qty ul li .qtplus:hover {
-	color: #f1c40f;
+	color: #ffe16a;
 }
 .cart-area .cart-table-area .table tr td .qty ul li .qttotal:focus,
 .cart-area .cart-table-area .table tr td .qty ul li .qtminus:focus,
@@ -4034,7 +4069,7 @@ select:focus {
 	transition: all 0.3s ease-in;
 }
 .payment-method .method-slider .item .single-method.active {
-	border-color: #f1c40f;
+	border-color: #ffe16a;
 }
 .payment-method .method-slider .item .single-method .icon {
 	max-height: 35px;
@@ -4052,7 +4087,7 @@ select:focus {
 }
 .payment-method .method-slider .item .single-method:hover,
 .payment-method .method-slider .item .single-method.active {
-	border-color: #f1c40f;
+	border-color: #ffe16a;
 }
 .payment-method .method-slider .owl-controls .owl-nav .owl-prev,
 .payment-method .method-slider .owl-controls .owl-nav .owl-next {
@@ -4078,7 +4113,7 @@ select:focus {
 }
 .payment-method .method-slider .owl-controls .owl-nav .owl-prev:hover,
 .payment-method .method-slider .owl-controls .owl-nav .owl-next:hover {
-	background: #f1c40f;
+	background: #ffe16a;
 	color: #fff;
 }
 .payment-method .method-slider .owl-controls .owl-nav .owl-prev {
@@ -4152,7 +4187,7 @@ select:focus {
 	color: #fff;
 }
 .tournaments .info-table .main-box .main-header-area .nav li a.active {
-	color: #f1c40f;
+	color: #ffe16a;
 }
 .tournaments .info-table .main-box .inner-table-content {
 	padding: 0px 30px;
@@ -4206,7 +4241,7 @@ select:focus {
 	ul
 	.nav-item
 	.nav-link.active {
-	background: #f1c40f;
+	background: #ffe16a;
 	color: #fff;
 }
 .tournaments .info-table .main-box .inner-table-content .tab-content {
@@ -4389,7 +4424,7 @@ select:focus {
 .tournament-time-box .top-area .sub-title {
 	margin-bottom: 0px;
 	text-transform: uppercase;
-	color: #f1c40f;
+	color: #ffe16a;
 	font-size: 18px;
 	line-height: 28px;
 }
@@ -4682,7 +4717,7 @@ select:focus {
 }
 .single-h-play .steps {
 	font-size: 14px;
-	color: #f1c40f;
+	color: #ffe16a;
 	text-transform: uppercase;
 }
 .single-h-play .steps i {
@@ -4803,7 +4838,7 @@ select:focus {
 	z-index: 1;
 }
 .affiliate-program .single-program .icon.one {
-	border: 7px solid #f1c40f;
+	border: 7px solid #ffe16a;
 	border-radius: 50%;
 	text-align: center;
 	display: inline-block;
@@ -4904,14 +4939,14 @@ select:focus {
 	border-radius: 50px;
 }
 .affiliate-program .single-program .content .link:hover {
-	color: #f1c40f;
+	color: #ffe16a;
 }
 .affiliate-program .single-program .content .link:hover i {
-	color: #f1c40f;
+	color: #ffe16a;
 	padding-left: 10px;
 }
 .affiliate-program .single-program .content .link:hover i::after {
-	background: #f1c40f;
+	background: #ffe16a;
 }
 .affiliate-program .single-program:hover {
 	-webkit-transform: translateY(-10px);
@@ -5064,7 +5099,7 @@ select:focus {
 	width: 100px;
 	height: 100px;
 	border-radius: 50%;
-	border: 5px solid #f1c40f;
+	border: 5px solid #ffe16a;
 }
 .testimonial .single-testimonial .people .title {
 	margin-top: 23px;
@@ -5078,7 +5113,7 @@ select:focus {
 .testimonial .single-testimonial .people .designation {
 	font-size: 14px;
 	line-height: 24px;
-	color: #f1c40f;
+	color: #ffe16a;
 	margin-bottom: 0px;
 	text-transform: uppercase;
 }
@@ -5945,7 +5980,7 @@ select:focus {
 	.check-group
 	label
 	a {
-	color: #f1c40f;
+	color: #ffe16a;
 }
 .login-modal .modal-dialog .modal-content .modal-body .form-area label {
 	font-size: 18px;
@@ -6026,7 +6061,7 @@ select:focus {
 	font-size: 14px;
 }
 .login-modal .modal-dialog .modal-content .modal-body .form-footer a:hover {
-	color: #f1c40f;
+	color: #ffe16a;
 }
 
 .login-modal.sign-in .modal-body .form-area {

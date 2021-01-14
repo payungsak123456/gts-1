@@ -2,16 +2,19 @@
 export default function TheFooter() {
     return (
         <>
-            <footer className="pb-5 footer">
+            <footer className="footer">
                 <div className="container">
                     <div className="row text-light pl-5">
-                        <div className="col-md-3">
+                        <div className="col-12">
                             <img
-                                src="assets/images/home/messageImage_1610447250735.jpg"
+                                src="assets/images/home/LogoText.png"
                                 className="img-fluid mb-3 lazyloaded"
                                 alt="logo ufadeal"
                                 data-ll-status="loaded"
                             />
+                        </div>
+                        <div className="col-md-3">
+
 
                             <h3>
                                 <strong className="text-neno-titel">เกี่ยวกับเรา</strong>

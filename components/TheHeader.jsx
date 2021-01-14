@@ -3,71 +3,18 @@ export default function TheHeader() {
     return (
         <>
             <header className="header">
-                <section className="top-header">
-                    <div className="container">
-                        <div className="row">
-                            <div className="col-lg-12">
-                                <div className="content">
-                                    <div className="right-content">
-                                        <ul className="right-list">
-                                            <li>
-                                                <div className="input-group">
-                                                    <div className="row">
-                                                        <div className="col-sm-4">
-                                                            {" "}
-                                                            <div className="input-group-prepend"></div>
-                                                            <input
-                                                                type="text"
-                                                                aria-label="First name"
-                                                                className="form-control"
-                                                                placeholder="USERNAME"
-                                                            />
-                                                        </div>
-                                                        <div className="col-sm-4">
-                                                            {" "}
-                                                            <div className="input-group-prepend"></div>
-                                                            <input
-                                                                type="text"
-                                                                aria-label="First name"
-                                                                className="form-control"
-                                                                placeholder="PASSWORD"
-                                                            />
-                                                        </div>
-                                                        <div className="col-sm-4">
-                                                            {" "}
-                                                            <button
-                                                                type="button"
-                                                                className="btn btn-block text-login"
-                                                                style={{
-                                                                    backgroundColor: "#ffc107",
-                                                                    color: "white",
-                                                                }}
-                                                            >
-                                                                Login
-																	</button>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
                 <div className="mainmenu-area ">
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-12">
                                 <nav className="navbar navbar-expand-lg navbar-light">
-                                    <a className="navbar-brand" href="index.html">
+                                    <a className="navbar-brand" href="/">
                                         <img
                                             src="assets/images/logoicon1.png"
                                             width="100"
                                             height="100"
                                             alt=""
-                                            style={{ position: "relative", top: "-6px" }}
+                                            style={{ position: "relative", objectFit: "contain" }}
                                         />
                                     </a>
                                     <button
@@ -87,32 +34,32 @@ export default function TheHeader() {
                                     >
                                         <ul className="navbar-nav ml-auto text-nav">
                                             <li className="nav-item ">
-                                                <a className="nav-link " href="play.html">
+                                                <a className="nav-link " href="/home">
                                                     HOME
 															<div className="mr-hover-effect"></div>
                                                 </a>
                                             </li>
                                             <li className="nav-item">
-                                                <a className="nav-link" href="lottery.html">
+                                                <a className="nav-link" href="/casino">
                                                     CASINO
 															<div className="mr-hover-effect"></div>
                                                 </a>
                                             </li>
                                             <li className="nav-item">
-                                                <a className="nav-link" href="tournaments.html">
+                                                <a className="nav-link" href="/sports">
                                                     SPORTS
 															<div className="mr-hover-effect"></div>
                                                 </a>
                                             </li>
 
                                             <li className="nav-item">
-                                                <a className="nav-link" href="contact.html">
+                                                <a className="nav-link" href="/slot">
                                                     SLOT
 															<div className="mr-hover-effect"></div>
                                                 </a>
                                             </li>
                                             <li className="nav-item">
-                                                <a className="nav-link" href="contact.html">
+                                                <a className="nav-link" href="/bacara">
                                                     BARCARA
 															<div className="mr-hover-effect"></div>
                                                 </a>

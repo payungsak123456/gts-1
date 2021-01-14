@@ -26,17 +26,17 @@ export default function MyApp({ Component, pageProps }) {
         <link rel="stylesheet" href="assets/css/home.css" />
         {/* <!-- responsive --> */}
         <link rel="stylesheet" href="assets/css/responsive.css"></link>
-        <script src="assets/js/jquery.js"></script>
-        <script src="assets/js/popper.min.js"></script>
-        <script src="assets/js/bootstrap.min.js"></script>
-        <script src="assets/js/plugin.js"></script>
 
-        <script src="assets/js/TweenMax.js"></script>
-        <script src="assets/js/mousemoveparallax.js"></script>
-        <script src="assets/js/main.js"></script>
       </Head>
       <DefaultSeo {...SEO} />
       <Component {...pageProps} />
+      <script src="assets/js/jquery.js"></script>
+      <script src="assets/js/popper.min.js"></script>
+      <script src="assets/js/bootstrap.min.js"></script>
+      <script src="assets/js/plugin.js"></script>
+      <script src="assets/js/TweenMax.js"></script>
+      <script src="assets/js/mousemoveparallax.js"></script>
+      <script src="assets/js/main.js"></script>
     </>
   );
 }
