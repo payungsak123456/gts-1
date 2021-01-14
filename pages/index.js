@@ -1,5 +1,6 @@
 import { NextSeo } from "next-seo";
 import Head from "next/head";
+import GameList from "./listPage/GameList";
 import { Swiper, SwiperSlide } from "swiper/react";
 
 export default function Home() {
