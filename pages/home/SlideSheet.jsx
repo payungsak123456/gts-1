@@ -25,21 +25,21 @@ export default function SlideSheet() {
 							<div class="carousel-inner">
 								<div class="carousel-item active">
 									<img
-										src="assets/images/pokdeng.png"
+										src="assets/images/home/pr1.png"
 										class="d-block w-100"
 										alt="..."
 									/>
 								</div>
 								<div class="carousel-item">
 									<img
-										src="assets/images/UFAslot.jpg.png"
+										src="assets/images/home/pr2.png"
 										class="d-block w-100"
 										alt="..."
 									/>
 								</div>
 								<div class="carousel-item">
 									<img
-										src="assets/images/Sexy-Bacarrat.png"
+										src="assets/images/home/pr3.png"
 										class="d-block w-100"
 										alt="..."
 									/>
