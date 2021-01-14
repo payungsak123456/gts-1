@@ -1,6 +1,6 @@
 import { NextSeo } from "next-seo";
 import Head from "next/head";
-import GameList from "./listPage/GameList";
+// import GameList from "./listPage/GameList";
 import { Swiper, SwiperSlide } from "swiper/react";
 
 export default function Home() {
@@ -223,16 +223,10 @@ export default function Home() {
 					{/* <!-- Header Area End  --> */}
 
 					<div
-						style={{ visiBility: "hidden" }}
 						id="topbar2"
 						class="fxx tt_open2"
 					>
-						{/* <div class="tt_btn_close2">
-						<i class="fa fa-times"></i>
-					</div>
-					<div class="tt_btn_open2">
-						<i class="fa fa-plus"></i>
-					</div> */}
+	
 
 						<a
 							class="tt_l mb-5 tt_img_fixed2"
@@ -737,7 +731,23 @@ export default function Home() {
 							</p>
 						</div>
 					</footer>
-					<div class="m-contact">
+					
+					<script src="assets/js/jquery.js"></script>
+
+					<script src="assets/js/popper.min.js"></script>
+
+					<script src="assets/js/bootstrap.min.js"></script>
+
+					<script src="assets/js/plugin.js"></script>
+
+					<script src="assets/js/TweenMax.js"></script>
+					<script src="assets/js/mousemoveparallax.js"></script>
+
+					<script src="assets/js/main.js"></script>
+				</div>
+				
+			</div>
+			<div class="m-contact">
 						<div class="o-contact">
 							<a href="" target="_blank">
 								<img
@@ -827,20 +837,6 @@ export default function Home() {
 							</a>
 						</div>
 					</div>
-					<script src="assets/js/jquery.js"></script>
-
-					<script src="assets/js/popper.min.js"></script>
-
-					<script src="assets/js/bootstrap.min.js"></script>
-
-					<script src="assets/js/plugin.js"></script>
-
-					<script src="assets/js/TweenMax.js"></script>
-					<script src="assets/js/mousemoveparallax.js"></script>
-
-					<script src="assets/js/main.js"></script>
-				</div>
-			</div>
 		</div>
 	);
 }

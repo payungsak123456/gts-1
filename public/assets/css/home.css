@@ -155,6 +155,19 @@
 }
 
 @media only screen and (max-width: 600px) {
+  #topbar2{
+    visibility: hidden;
+  }
+  #topbar{
+    visibility: hidden;
+  }
+}
+@media only screen and (max-width: 768px) {
+  #topbar2{
+    width: 70px;
+    top: 10rem;
+  }
+
 }
 
 .header .mainmenu-area .navbar #main_menu .navbar-nav .nav-item .nav-link {
