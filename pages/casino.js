@@ -265,8 +265,7 @@ export default function Casino() {
                   </h3>
                   <p className="text-white-50 small">
                     GTS168.COM Partner of GTS168 เว็บพนันออนไลน์ แทงบอลออนไลน์
-                    คาสิโนออนไลน์ ครบครัน ที่มาพร้อมกับ ระบบฝากถอนAUTO
-                    ทำรายการภายใน 10 วินาที รองรับ Smartphone ทุกระบบปฎิบัติการ{" "}
+                    คาสิโนออนไลน์ ครบครัน ที่สามารถ ฝากถอนโอนไว ชื้อนี้มั้นใจได้ {" "}
                   </p>
                   <p className="small text-white-50">
                     GTSCASINO GTSSLOT SA Gaming Joker Gaming REDTIGER PGSLOT
