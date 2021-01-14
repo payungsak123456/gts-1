@@ -60,12 +60,54 @@
 	justify-content: space-around;
 	flex-wrap: wrap;
 }
-
+.bg-image {
+	background-color: #181c27;
+	background-repeat: repeat;
+	background-attachment: fixed;
+	background-position: center center;
+	background-image: url(https://sagame6699.com/wp-content/uploads/2020/11/bg222.png);
+	background-size: cover;
+}
+.tt_tx_line {
+	float: left;
+	width: 100%;
+	font-size: 13px;
+	color: #fff;
+	text-align: left;
+	margin: 0px 0px 0px 0px;
+	padding: 5px 0px 5px 0px;
+	text-align: center;
+	background-color: #57c42e;
+}
+#topbar {
+	position: fixed;
+	width: 180px;
+	z-index: 10;
+	right: 10px;
+	top: 165px;
+	padding: 10px 0px 0px 0px;
+	-webkit-transition: all 0.5s ease-in-out 0s;
+	-o-transition: all 0.5s ease-in-out 0s;
+	-moz-transition: all 0.5s ease-in-out 0s;
+	transition: all 0.5s ease-in-out 0s;
+}
+#topbar2 {
+	position: fixed;
+	width: 95px;
+	z-index: 99999999;
+	left: 10px;
+	top: 20px;
+	padding: 10px 0px 0px 0px;
+	-webkit-transition: all 0.5s ease-in-out 0s;
+	-o-transition: all 0.5s ease-in-out 0s;
+	-moz-transition: all 0.5s ease-in-out 0s;
+	transition: all 0.5s ease-in-out 0s;
+}
 .home .card {
 	margin: 30px auto;
 	width: 400px;
 	height: 200px;
-	border-radius: 40px;
+
 	box-shadow: 5px 5px 30px 7px rgba(0, 0, 0, 0.25),
 		-5px -5px 30px 7px rgba(0, 0, 0, 0.22);
 	cursor: pointer;
@@ -75,13 +117,12 @@
 .home .card .card_image {
 	width: inherit;
 	height: inherit;
-	border-radius: 40px;
 }
 
 .home .card .card_image img {
 	width: inherit;
 	height: inherit;
-	border-radius: 40px;
+
 	object-fit: cover;
 }
 
@@ -124,5 +165,4 @@
 }
 
 @media only screen and (max-width: 600px) {
-    
 }
