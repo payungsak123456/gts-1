@@ -18,8 +18,7 @@ export default function TheFooter() {
                             </h3>
                             <p className="text-white-50 small">
                                 GTS168.COM Partner of GTS168 เว็บพนันออนไลน์ แทงบอลออนไลน์
-                                คาสิโนออนไลน์ ครบครัน ที่มาพร้อมกับ ระบบฝากถอนAUTO
-										ทำรายการภายใน 10 วินาที รองรับ Smartphone ทุกระบบปฎิบัติการ{" "}
+                                คาสิโนออนไลน์ ครบครัน สามารถฝากถอนง่ายรวดเร็ว{" "}
                             </p>
                             <p className="small text-white-50">
                                 GTSCASINO GTSSLOT SA Gaming Joker Gaming REDTIGER PGSLOT

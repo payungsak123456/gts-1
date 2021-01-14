@@ -17,18 +17,9 @@ export default function Home() {
 
 					{/* <!-- Hero Area Start --> */}
 					<div className="hero-area">
-						<br></br>
-						<br></br>
+
 						<HomePage/>
 
-						<img
-							height="auto"
-							width="100%"
-							src="assets/images/home/โฆษณา2.png"
-							style={{ objectFit : 'cover'}}
-						></img>
-
-					
 					</div>
 					<TheFooter />
 				</div>

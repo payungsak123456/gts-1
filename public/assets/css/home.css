@@ -60,7 +60,7 @@
 	background-repeat: repeat;
 	background-attachment: fixed;
 	background-position: center center;
-	background-image: url(https://sagame6699.com/wp-content/uploads/2020/11/bg222.png);
+	background-image: url("./../images/home/bgw.jpg");
 	background-size: cover;
 }
 .tt_tx_line {
@@ -100,8 +100,8 @@
 }
 .home .card {
 	margin: 30px auto;
-	width: 400px;
-	height: 200px;
+	width: 250px;
+	height: 125px;
 
 	box-shadow: 5px 5px 30px 7px rgba(0, 0, 0, 0.25),
 		-5px -5px 30px 7px rgba(0, 0, 0, 0.22);

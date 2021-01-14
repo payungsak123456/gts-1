@@ -4,7 +4,8 @@ export default function GameList() {
     <>
 <div className="cards-list">
 <div className="card 1">
-    <div className="card_image">
+    <div className="card_ima
+    ge">
         {" "}
         <img src="https://www.casinofevers.com/wp-content/uploads/2019/05/casino-fever-sexy-baccarat-300x169.png" />{" "}
     </div>

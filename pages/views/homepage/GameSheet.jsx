@@ -64,7 +64,20 @@ export default function GameSheet() {
 							<img src="assets/images/Ebet.png" />{" "}
 						</div>
 					</div>
+					<div className="card 1">
+						<div className="card_image">
+							{" "}
+							<img src="assets/images/pokdeng.png" />{" "}
+						</div>
+					</div>
+					<div className="card 1">
+						<div className="card_image">
+							{" "}
+							<img src="assets/images/ITP.png" />{" "}
+						</div>
+					</div>
 				</div>
+				
 			</div>
 
 		</>

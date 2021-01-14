@@ -113,11 +113,9 @@ export default function DetailSheet() {
           </div>
         </div>
         <div className="col-7">
-          <img
-            height="400"
-            width="100%"
-            src="assets/images/home/messageImage_1610447250735.jpg"
-          ></img>
+        <div class="videoWrapper">
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/mfqJyKm20Z4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          </div>
         </div>
       </div>
 

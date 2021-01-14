@@ -2,7 +2,7 @@
 export default function TheBillboard() {
     return (
         <>
-            <div
+        <div
                 id="topbar2"
                 class="fxx tt_open2"
             >
@@ -11,7 +11,7 @@ export default function TheBillboard() {
                     target="_blank"
                     href="https://sagame6699.com/gameplay"
                 >
-                    <img src="https://sagame6699.com/wp-content/uploads/2020/10/b5-min.jpg" />
+                    {/* <img src="https://sagame6699.com/wp-content/uploads/2020/10/b5-min.jpg" /> */}
                 </a>
 
                 <a
@@ -19,7 +19,7 @@ export default function TheBillboard() {
                     target="_blank"
                     href="https://sagame6699.com/gameplay/?gametype=sexygame"
                 >
-                    <img src="https://sagame6699.com/wp-content/uploads/2020/10/b1-min-1.jpg" />
+                    {/* <img src="https://sagame6699.com/wp-content/uploads/2020/10/b1-min-1.jpg" /> */}
                 </a>
 
                 <a
@@ -27,7 +27,7 @@ export default function TheBillboard() {
                     target="_blank"
                     href="https://sagame6699.com/gameplaypage/"
                 >
-                    <img src="https://sagame6699.com/wp-content/uploads/2020/12/รวม-1.png" />
+                    {/* <img src="https://sagame6699.com/wp-content/uploads/2020/12/รวม-1.png" /> */}
                 </a>
 
                 <a
@@ -35,7 +35,7 @@ export default function TheBillboard() {
                     target="_blank"
                     href="https://sagame6699.com/gameplay?gametype=sbo"
                 >
-                    <img src="https://sagame6699.com/wp-content/uploads/2020/12/sbo-1.png" />
+                    {/* <img src="https://sagame6699.com/wp-content/uploads/2020/12/sbo-1.png" /> */}
                 </a>
 
                 <a
@@ -43,7 +43,7 @@ export default function TheBillboard() {
                     target="_blank"
                     href="https://sagame6699.com/gameplay/?gametype=pretty2"
                 >
-                    <img src="https://sagame6699.com/wp-content/uploads/2020/10/pt2.png" />
+                    {/* <img src="https://sagame6699.com/wp-content/uploads/2020/10/pt2.png" /> */}
                 </a>
 
                 <a
@@ -51,7 +51,7 @@ export default function TheBillboard() {
                     target="_blank"
                     href="https://sagame6699.com/gameplay?gametype=wmcasino"
                 >
-                    <img src="https://sagame6699.com/wp-content/uploads/2020/10/WMCASINO.png" />
+                    {/* <img src="https://sagame6699.com/wp-content/uploads/2020/10/WMCASINO.png" /> */}
                 </a>
             </div>
             <div id="topbar" class="fxx">
