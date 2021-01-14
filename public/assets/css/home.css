@@ -79,7 +79,7 @@
 	width: 180px;
 	z-index: 10;
 	right: 10px;
-	top: 165px;
+  top: 10rem;
 	padding: 10px 0px 0px 0px;
 	-webkit-transition: all 0.5s ease-in-out 0s;
 	-o-transition: all 0.5s ease-in-out 0s;
@@ -91,7 +91,7 @@
 	width: 95px;
 	z-index: 99999999;
 	left: 10px;
-	top: 20px;
+  top: 10rem;
 	padding: 10px 0px 0px 0px;
 	-webkit-transition: all 0.5s ease-in-out 0s;
 	-o-transition: all 0.5s ease-in-out 0s;
