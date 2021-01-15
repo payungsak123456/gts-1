@@ -45,11 +45,6 @@ export default function NextSeoPage() {
                     href="assets/images/favicon.png"
                     type="image/x-icon"
                 />
-                <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-                <link rel="stylesheet" href="assets/css/plugin.css" />
-
-                <link rel="stylesheet" href="assets/css/style.css" />
-                <link rel="stylesheet" href="assets/css/responsive.css"></link>
             </Head>
 
         </>

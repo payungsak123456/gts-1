@@ -1,6 +1,6 @@
-export default function CasinoDetail() {
+export default function SlotDetail() {
 	return (
-		<div className="Bacara-detail">
+		<div className="slot-detail">
 			<div className="pb-5 boder-game" style={{ color: "beige" }}>
 				<div className="boder-game">
 
@@ -34,7 +34,7 @@ export default function CasinoDetail() {
 										บาคาร่า ไพ่เสือมังกร สล็อต(Slot) เกมส์ยิงปลา แทงบอล
 										ลอตเตอรี่ หวย จากค่าย UFA และ รวมค่ายคาสิโนชั้นนำของโลก
 										เข้ามาไว้ให้เล่นกันมากมาย ได้แก่ UFA, SA , SASEXY , JOKER ,
-										PG , WM , PRETTY , AG , AMB , DG Bacara
+										PG , WM , PRETTY , AG , AMB , DG Slot
 										และอีกมากมายอยากเล่นอะไร ยิงปลา บาคาร่า แทงบอล
 										จบที่เว็บเดียว การสมัครสมาชิกก็ง่ายสะดวก
 										รวดเร็วด้วยทีมงานที่มีประสบการณ์มากมาย

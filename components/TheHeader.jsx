@@ -46,7 +46,7 @@ export default function TheHeader() {
                                                 </a>
                                             </li>
                                             <li className="nav-item">
-                                                <a className="nav-link" href="/sports">
+                                                <a className="nav-link" href="/sport">
                                                     SPORTS
 															<div className="mr-hover-effect"></div>
                                                 </a>

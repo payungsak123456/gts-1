@@ -1,17 +1,13 @@
-import TheLayout from './../../components/TheLayout'
+import TheLayout from './../../components/TheLayout';
+import BacaraDetail from './BacaraDetail';
+import NextSeoPage from "./NextSeoPage";
 export default function BacaraPage() {
 	return (
 		<div className="bg-image">
+			<NextSeoPage/>
 			<TheLayout>
-                5555
+			<BacaraDetail/>
 			</TheLayout>
-			<script src="assets/js/jquery.js"></script>
-			<script src="assets/js/popper.min.js"></script>
-			<script src="assets/js/bootstrap.min.js"></script>
-			<script src="assets/js/plugin.js"></script>
-			<script src="assets/js/TweenMax.js"></script>
-			<script src="assets/js/mousemoveparallax.js"></script>
-			<script src="assets/js/main.js"></script>
 		</div>
 	);
 }

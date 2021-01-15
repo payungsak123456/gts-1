@@ -1,6 +1,6 @@
-export default function CasinoDetail() {
+export default function BacaraDetail() {
 	return (
-		<div className="Bacara-detail">
+		<div className="bacara-detail">
 			<div className="pb-5 boder-game" style={{ color: "beige" }}>
 				<div className="boder-game">
 
