@@ -4,10 +4,10 @@ export default function TheBillboard() {
         <>
         <div
                 id="topbar2"
-                class="fxx tt_open2"
+                className="fxx tt_open2"
             >
                 <a
-                    class="tt_l mb-5 tt_img_fixed2"
+                    className="tt_l mb-5 tt_img_fixed2"
                     target="_blank"
                     href="https://sagame6699.com/gameplay"
                 >
@@ -15,7 +15,7 @@ export default function TheBillboard() {
                 </a>
 
                 <a
-                    class="tt_l mb-5 tt_img_fixed2"
+                    className="tt_l mb-5 tt_img_fixed2"
                     target="_blank"
                     href="https://sagame6699.com/gameplay/?gametype=sexygame"
                 >
@@ -23,7 +23,7 @@ export default function TheBillboard() {
                 </a>
 
                 <a
-                    class="tt_l mb-5 tt_img_fixed2"
+                    className="tt_l mb-5 tt_img_fixed2"
                     target="_blank"
                     href="https://sagame6699.com/gameplaypage/"
                 >
@@ -31,7 +31,7 @@ export default function TheBillboard() {
                 </a>
 
                 <a
-                    class="tt_l mb-5 tt_img_fixed2"
+                    className="tt_l mb-5 tt_img_fixed2"
                     target="_blank"
                     href="https://sagame6699.com/gameplay?gametype=sbo"
                 >
@@ -39,7 +39,7 @@ export default function TheBillboard() {
                 </a>
 
                 <a
-                    class="tt_l mb-5 tt_img_fixed2"
+                    className="tt_l mb-5 tt_img_fixed2"
                     target="_blank"
                     href="https://sagame6699.com/gameplay/?gametype=pretty2"
                 >
@@ -47,19 +47,19 @@ export default function TheBillboard() {
                 </a>
 
                 <a
-                    class="tt_l mb-5 tt_img_fixed2"
+                    className="tt_l mb-5 tt_img_fixed2"
                     target="_blank"
                     href="https://sagame6699.com/gameplay?gametype=wmcasino"
                 >
                     {/* <img src="https://sagame6699.com/wp-content/uploads/2020/10/WMCASINO.png" /> */}
                 </a>
             </div>
-            <div id="topbar" class="fxx">
-                <a class="tt_img_fixed" target="_blank" href="">
+            <div id="topbar" className="fxx">
+                <a className="tt_img_fixed" target="_blank" href="">
                     <img src="assets/images/line.jpg" />
-                    <span class="tt_tx_line"> LINE : @GtsGold168</span>
+                    <span className="tt_tx_line"> LINE : @GtsGold168</span>
                 </a>
-                <a class="tt_l mt-10 tt_img_fixed" target="_blank" href="">
+                <a className="tt_l mt-10 tt_img_fixed" target="_blank" href="">
                     <img src="" />
                 </a>
             </div>

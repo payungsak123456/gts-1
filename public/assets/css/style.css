@@ -2605,7 +2605,7 @@ select:focus {
 
 .index2 .hero-area {
 	background: url(../images/herobg2.jpg);
-	padding: 372px 0px 424px;
+	padding: 372px 0px 0px;
 }
 
 .index2 .hero-area .left-content .content {

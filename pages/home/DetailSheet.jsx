@@ -43,7 +43,7 @@ export default function DetailSheet() {
               </b>{" "}
 										ได้เงินไวรวยเร็ว ถือว่าเป็นอีกหนึ่งช่องทางในการหารายได้ง่ายๆ
 										ในช่วงเวลาว่างงาน สมัครได้ที่
-										<span class="badge badge-pill badge-success">
+										<span className="badge badge-pill badge-success">
                 {" "}
 											Line: @GtsGold168
 										</span>
@@ -72,7 +72,7 @@ export default function DetailSheet() {
               </b>
 										ท่านสามารถเข้ามาเล่นได้ตลอดเวลา การฝากถอนก็ง่ายนิดเดียว
 										เพียงแค่แอดไลน์{" "}
-              <span class="badge badge-pill badge-success">
+              <span className="badge badge-pill badge-success">
                 {" "}
 											Line: @GtsGold168
 										</span>
@@ -83,7 +83,13 @@ export default function DetailSheet() {
       <br></br>
       <br></br>
       <div className="row">
-        <div className="col-5">
+
+        <div className="col-lg-7">
+          <div className="videoWrapper">
+            <iframe width="100%" height="315" src="https://www.youtube.com/embed/mfqJyKm20Z4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          </div>
+        </div>
+        <div className="col-lg-5">
           {" "}
           <div style={{ paddingLeft: "10%" }}>
             <center>
@@ -107,11 +113,6 @@ export default function DetailSheet() {
                 ได้เร็ว
 										</li>
             </ul>
-          </div>
-        </div>
-        <div className="col-7">
-          <div class="videoWrapper">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/mfqJyKm20Z4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           </div>
         </div>
       </div>

@@ -27,7 +27,7 @@ $(function ($) {
     var $game_slider = $('.game-slider');
     $game_slider.owlCarousel({
         loop: true,
-        navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
+        navText: ['<i className="fa fa-angle-left"></i>', '<i className="fa fa-angle-right"></i>'],
         nav: true,
         dots: false,
         autoplay: false,
@@ -60,7 +60,7 @@ $(function ($) {
     var $method_slider = $('.method-slider');
     $method_slider.owlCarousel({
         loop: true,
-        navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
+        navText: ['<i className="fa fa-angle-left"></i>', '<i className="fa fa-angle-right"></i>'],
         nav: true,
         dots: false,
         autoplay: false,
@@ -93,7 +93,7 @@ $(function ($) {
     var $testimonial_slider = $('.testimonial-slider');
     $testimonial_slider.owlCarousel({
         loop: true,
-        navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
+        navText: ['<i className="fa fa-angle-left"></i>', '<i className="fa fa-angle-right"></i>'],
         nav: true,
         dots: false,
         autoplay: false,

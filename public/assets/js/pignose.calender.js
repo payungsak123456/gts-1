@@ -176,23 +176,23 @@ var ComponentClass = Helper.GetClass(ComponentName);
 				}
 
 				this.global = {
-					calender: $(Helper.Format('<div class="{0}">\
-												<div class="{1}">\
-													<a href="#" class="{1}-nav {1}-prev">\
-														<span class="{1}-icon"></span>\
-														<span class="{1}-value"></span>\
+					calender: $(Helper.Format('<div className="{0}">\
+												<div className="{1}">\
+													<a href="#" className="{1}-nav {1}-prev">\
+														<span className="{1}-icon"></span>\
+														<span className="{1}-value"></span>\
 													</a>\
-													<div class="{1}-date">\
-														<p class="{1}-month"></p>\
-														<h3 class="{1}-year"></h3>\
+													<div className="{1}-date">\
+														<p className="{1}-month"></p>\
+														<h3 className="{1}-year"></h3>\
 													</div>\
-													<a href="#" class="{1}-nav {1}-next">\
-														<span class="{1}-value"></span>\
-														<span class="{1}-icon"></span>\
+													<a href="#" className="{1}-nav {1}-next">\
+														<span className="{1}-value"></span>\
+														<span className="{1}-icon"></span>\
 													</a>\
 												</div>\
-												<div class="{2}"></div>\
-												<div class="{3}"></div>\
+												<div className="{2}"></div>\
+												<div className="{3}"></div>\
 											  </div>', ComponentClass, _calenderTopClass, _calenderHeaderClass, _calenderBodyClass))
 				};
 
@@ -202,7 +202,7 @@ var ComponentClass = Helper.GetClass(ComponentName);
 						continue;
 					}
 					week = week.toUpperCase();
-					var $unit = $(Helper.Format('<div class="{0} {0}-{2}">{1}</div>', Helper.GetSubClass('Week'), week, languagePack.weeks.en[idx].toLowerCase()));
+					var $unit = $(Helper.Format('<div className="{0} {0}-{2}">{1}</div>', Helper.GetSubClass('Week'), week, languagePack.weeks.en[idx].toLowerCase()));
 					$unit.appendTo(_this.global.calender.find('.' + _calenderHeaderClass));
 				}
 
@@ -238,13 +238,13 @@ var ComponentClass = Helper.GetClass(ComponentName);
 						var toggleClass = Helper.GetSubClass('UnitToggle');
 
 						for(var i=0; i<firstWeekday; i++) {
-							var $unit = $(Helper.Format('<div class="{0} {0}-{1}"></div>', Helper.GetSubClass('Unit'), languagePack.weeks.en[i].toLowerCase()));
+							var $unit = $(Helper.Format('<div className="{0} {0}-{1}"></div>', Helper.GetSubClass('Unit'), languagePack.weeks.en[i].toLowerCase()));
 							$unitList = $unitList.add($unit);
 						}
 
 						for(var i=dateManager.firstDay; i<=dateManager.lastDay; i++) {
 							var iDate = DateManager.Convert(dateManager.year, dateManager.month, i);
-							var $unit = $(Helper.Format('<div class="{0} {0}-date {0}-{3}" data-date="{1}"><a href="#">{2}</a></div>', Helper.GetSubClass('Unit'), iDate.format('YYYY-MM-DD'), i, languagePack.weeks.en[iDate.weekday()].toLowerCase()));
+							var $unit = $(Helper.Format('<div className="{0} {0}-date {0}-{3}" data-date="{1}"><a href="#">{2}</a></div>', Helper.GetSubClass('Unit'), iDate.format('YYYY-MM-DD'), i, languagePack.weeks.en[iDate.weekday()].toLowerCase()));
 
 							if(_this.settings.toggle === false) {
 								if((local.current[0] !== null && iDate.format('YYYY-MM-DD') === local.current[0].format('YYYY-MM-DD'))) {
@@ -367,7 +367,7 @@ var ComponentClass = Helper.GetClass(ComponentName);
 						var lastWeekday = lastDate.weekday();
 
 						for(var i=lastWeekday+1;$unitList.length <= 7 * 5;i++) {
-							var $unit = $(Helper.Format('<div class="{0} {0}-{1}"></div>', Helper.GetSubClass('Unit'), languagePack.weeks.en[i % 7].toLowerCase()));
+							var $unit = $(Helper.Format('<div className="{0} {0}-{1}"></div>', Helper.GetSubClass('Unit'), languagePack.weeks.en[i % 7].toLowerCase()));
 							$unitList = $unitList.add($unit);
 						}
 
@@ -379,7 +379,7 @@ var ComponentClass = Helper.GetClass(ComponentName);
 								}
 
 								if(i + 1 < $unitList.length) {
-									$row = $(Helper.Format('<div class="{0}"></div>', Helper.GetSubClass('Row')));
+									$row = $(Helper.Format('<div className="{0}"></div>', Helper.GetSubClass('Row')));
 								}
 							}
 							$row.append($(this));

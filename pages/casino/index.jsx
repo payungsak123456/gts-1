@@ -1,9 +1,12 @@
-import TheLayout from './../../components/TheLayout'
+import TheLayout from './../../components/TheLayout';
+import CasinoDetail from './CasinoDetail';
+import NextSeoPage from "./NextSeoPage";
 export default function CasinoPage() {
 	return (
 		<div className="bg-image">
+			<NextSeoPage/>
 			<TheLayout>
-                5555
+			<CasinoDetail/>
 			</TheLayout>
 		</div>
 	);

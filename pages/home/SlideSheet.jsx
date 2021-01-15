@@ -4,14 +4,14 @@ export default function SlideSheet() {
       <>
       						<div
 							id="carouselExampleIndicators"
-							class="carousel slide"
+							className="carousel slide"
 							data-ride="carousel"
 						>
-							<ol class="carousel-indicators">
+							<ol className="carousel-indicators">
 								<li
 									data-target="#carouselExampleIndicators"
 									data-slide-to="0"
-									class="active"
+									className="active"
 								></li>
 								<li
 									data-target="#carouselExampleIndicators"
@@ -22,52 +22,52 @@ export default function SlideSheet() {
 									data-slide-to="2"
 								></li>
 							</ol>
-							<div class="carousel-inner">
-								<div class="carousel-item active">
+							<div className="carousel-inner">
+								<div className="carousel-item active">
 									<img
 										src="assets/images/home/pr1.png"
-										class="d-block w-100"
+										className="d-block w-100"
 										alt="..."
 									/>
 								</div>
-								<div class="carousel-item">
+								<div className="carousel-item">
 									<img
 										src="assets/images/home/pr2.png"
-										class="d-block w-100"
+										className="d-block w-100"
 										alt="..."
 									/>
 								</div>
-								<div class="carousel-item">
+								<div className="carousel-item">
 									<img
 										src="assets/images/home/pr3.png"
-										class="d-block w-100"
+										className="d-block w-100"
 										alt="..."
 									/>
 								</div>
 							</div>
 							<a
-								class="carousel-control-prev"
+								className="carousel-control-prev"
 								href="#carouselExampleIndicators"
 								role="button"
 								data-slide="prev"
 							>
 								<span
-									class="carousel-control-prev-icon"
+									className="carousel-control-prev-icon"
 									aria-hidden="true"
 								></span>
-								<span class="sr-only">Previous</span>
+								<span className="sr-only">Previous</span>
 							</a>
 							<a
-								class="carousel-control-next"
+								className="carousel-control-next"
 								href="#carouselExampleIndicators"
 								role="button"
 								data-slide="next"
 							>
 								<span
-									class="carousel-control-next-icon"
+									className="carousel-control-next-icon"
 									aria-hidden="true"
 								></span>
-								<span class="sr-only">Next</span>
+								<span className="sr-only">Next</span>
 							</a>
 						</div>
 

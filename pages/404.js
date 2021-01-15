@@ -22,26 +22,26 @@ export default function FourOhFour() {
         <link rel="stylesheet" href="assets/css/responsive.css" />
       </Head>
       {/* <!-- preloader area start --> */}
-      <div class="preloader" id="preloader">
-        <div class="loader loader-1">
-          <div class="loader-outter"></div>
-          <div class="loader-inner"></div>
+      <div className="preloader" id="preloader">
+        <div className="loader loader-1">
+          <div className="loader-outter"></div>
+          <div className="loader-inner"></div>
         </div>
       </div>
       {/* <!-- preloader area end --> */}
 
       {/* <!-- 404 Area Start --> */}
-      <section class="four-zero-four">
-        <img class="bg-img" src="assets/images/404-bg.png" alt="" />
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-12">
-              <div class="content">
+      <section className="four-zero-four">
+        <img className="bg-img" src="assets/images/404-bg.png" alt="" />
+        <div className="container">
+          <div className="row">
+            <div className="col-lg-12">
+              <div className="content">
                 <img src="assets/images/404.png" alt="" />
-                <div class="inner-content">
-                  <h4 class="title">Oops, Something went wrong !</h4>
-                  <a href="/" class="mybtn1">
-                    <i class="fas fa-angle-double-left"></i> BACK TO HOME
+                <div className="inner-content">
+                  <h4 className="title">Oops, Something went wrong !</h4>
+                  <a href="/" className="mybtn1">
+                    <i className="fas fa-angle-double-left"></i> BACK TO HOME
                   </a>
                 </div>
               </div>
