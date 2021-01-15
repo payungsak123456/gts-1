@@ -4,7 +4,7 @@ export default function TheMobileMenu() {
         <>
             <div className="m-contact">
                 <div className="o-contact">
-                    <a href="" target="_blank">
+                    <a href="/login" >
                         <img
                             className="contact-icon lazyloaded"
                             alt="login ufadeal"
@@ -22,7 +22,7 @@ export default function TheMobileMenu() {
                                 src="https://ufadeal.com/wp-content/themes/deal-theme/assets/login.png"
                             />
                         </noscript>
-                        <span className="text-contact contact-info">เข้าสู่ระบบ</span>
+                        <span className="text-contact">เข้าสู่ระบบ</span>
                     </a>
                 </div>
                 <div className="o-contact">

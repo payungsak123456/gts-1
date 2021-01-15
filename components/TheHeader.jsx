@@ -64,6 +64,12 @@ export default function TheHeader() {
 															<div className="mr-hover-effect"></div>
                                                 </a>
                                             </li>
+                                            <li className="nav-item">
+                                                <a className="nav-link" href="/login">
+                                                    Login
+															<div className="mr-hover-effect"></div>
+                                                </a>
+                                            </li>
                                         </ul>
                                     </div>
                                 </nav>
