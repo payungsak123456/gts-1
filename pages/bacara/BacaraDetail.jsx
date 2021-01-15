@@ -2,118 +2,50 @@ export default function BacaraDetail() {
 	return (
 		<div className="bacara-detail">
 			<div className="pb-5 boder-game" style={{ color: "beige" }}>
-				<div className="boder-game">
-
-				</div>
 				<div className="row">
-
 					<div className="col-md-12  ">
-						<div style={{ paddingTop: "5%" }}>
-							<div className="container ">
-								<center>
-									<h3
-										className=" text-neno-titel"
-									>
-										บาคาร่า รูเล็ต ไพ่เสือมังกร สล็อต(Slot) เกมส์ยิงปลา
-										แทงบอล
-											</h3>
-								</center>
-								<br></br>
-										&nbsp;&nbsp;
-										<b style={{ color: "#F5D404 " }}>
-									<u>GtsGold168</u>
-								</b>
-										&nbsp;
-										<b>
-									<u>เป็นเว็บพนันที่ดีที่สุดในประเทศไทย</u>
-								</b>{" "}
-										เป็นเว็บไซต์&nbsp;
-										<b>
-									<u>คาสิโนครบวงจร</u>
-								</b>{" "}
-										บาคาร่า ไพ่เสือมังกร สล็อต(Slot) เกมส์ยิงปลา แทงบอล
-										ลอตเตอรี่ หวย จากค่าย UFA และ รวมค่ายคาสิโนชั้นนำของโลก
-										เข้ามาไว้ให้เล่นกันมากมาย ได้แก่ UFA, SA , SASEXY , JOKER ,
-										PG , WM , PRETTY , AG , AMB , DG Bacara
-										และอีกมากมายอยากเล่นอะไร ยิงปลา บาคาร่า แทงบอล
-										จบที่เว็บเดียว การสมัครสมาชิกก็ง่ายสะดวก
-										รวดเร็วด้วยทีมงานที่มีประสบการณ์มากมาย
-										<b>
-									<u>ฝากถอนรวดเร็วทันใจไม่มีขั้นต่ำ</u>
-								</b>{" "}
-										ได้เงินไวรวยเร็ว ถือว่าเป็นอีกหนึ่งช่องทางในการหารายได้ง่ายๆ
-										ในช่วงเวลาว่างงาน สมัครได้ที่
-										<span className="badge badge-pill badge-success">
-									{" "}
-											Line: @GtsGold168
-										</span>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div className="row">
-					<div className="col-md-12">
-						<div style={{ paddingTop: "5%" }}>
-							<div className="container">
-								<center>
-									<h3
-										className="text-neno-titel"
-									>
-										สิ่งที่ได้รับจาก GtsGold168
-											</h3>
-								</center>
-										&nbsp;&nbsp;ทุกท่านได้รับผลตอบแทนจากการแนะนำเพื่อนให้มาสมัครกับทางเรา
-										0.02% GtsGold168
-										จะพาทุกๆท่านพบกับประสบการณ์หาเงินง่ายๆไม่ต้องออกแรงกับ
-										คาสิโนออนไลน์จากค่ายชั้นนำหลายค่าย หรือพักผ่อนกับเกมส์ สล๊อต
-										ยิงปลา{" "}
-								<b>
-									<u>ที่เพียงแค่เล่นเกมส์ก็ได้เงิน</u>
-								</b>
-										ท่านสามารถเข้ามาเล่นได้ตลอดเวลา การฝากถอนก็ง่ายนิดเดียว
-										เพียงแค่แอดไลน์{" "}
-								<span className="badge badge-pill badge-success">
-									{" "}
-											Line: @GtsGold168
-										</span>
-							</div>
-						</div>
-					</div>
-				</div>
-				<br></br>
-				<br></br>
-				<div className="row">
-
-					<div className="col-lg-7">
-						<div className="videoWrapper">
-							<iframe width="100%" height="315" src="https://www.youtube.com/embed/mfqJyKm20Z4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-						</div>
-					</div>
-					<div className="col-lg-5">
-						{" "}
-						<div style={{ paddingLeft: "10%" }}>
+						<div className="container " style={{ color: "beige", paddingTop: "5%" }}>
 							<center>
-								<h3 className="text-neno-titel">
-									วิธีการสมัคร
-										</h3>
+								<h3 className=" text-neno-titel">
+									บาคาร่าออนไลน์
+									</h3>
 							</center>
-							<ul>
-								<li>1) แอดไลน์ @GtsGold168 </li>
-								<li>2) ใส่ข้อมูลชื่อสกุล</li>
-								<li>
-									3)
-									เลขบัญชีธนาคารที่ลูกค้าใช้ในการโอนและรับเงินจากทางเว็บไซต์
-										</li>
-								<li>4) เบอร์โทรศัพท์</li>
-								<li>5) ID: Line ของลูกค้า</li>
-								<li>6) User ผู้แนะนำหรือช่องที่เข้าถึง(ถ้ามี)</li>
-								<li>7) เมื่อลูกค้ารับ User แล้วสามารถเข้าสู่ระบบได้เลย</li>
-								<li>
-									8) ต่อมาลูกค้าก็จะพบกับประสบการณ์การหาเงินใช้แบบง่ายๆ
-									ได้เร็ว
-										</li>
-							</ul>
+							<br></br>
+							<p style={{ color: "beige" }}>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;หากท่านต้องการเสี่ยงโชคกับบาคาร่า เรามี<b>เว็บบาคาร่าออนไลน์</b> หลากหลายค่ายให้ท่านได้เลือกเล่นได้มากมาย ร่วมทั้งมี
+									<strong style={{ fontSize: "30px" }}>เซ็กซี่บาคาร่า</strong>
+								<b style={{ fontSize: "24px" }}>กับการไลฟ์สดเปิดไพ่ของสาวๆ ในชุดดีกินนี่เล่นบาคาร่าพร้อมกับการดูสาวไปเพลินๆเลยนะคะ</b>
+									&nbsp; &nbsp; &nbsp;เล่นบาคาร่าจากไลฟ์สดกันเลย
+									<strong style={{ fontSize: "24px" }}>&nbsp;บาคาร่า เซ็กซี่บาคาร่า</strong>
+							</p>
 						</div>
+					</div>
+					<div className="col-md-12 text-center mt-2">
+						<h5 className=" text-neno-titel">ตัวอย่างการไลฟ์สดเซ็กซี่บาคาร่า</h5>
+					</div>
+					<div className="col-md-12">
+						<img src="assets/images/bacara/sexy.png"
+							alt="Avatar" style={{ objectFit: 'cover', filter: 'drop-shadow(0px 10px 30px #000000)' }} />
+					</div>
+					<div className="col-md-12 text-center mt-4">
+						<h5 className=" text-neno-titel">ตัวอย่างการไลฟ์สดบาคาร่า</h5>
+					</div>
+					<div className="col-md-12  ">
+						<img src="assets/images/bacara/bacara.jpg"
+							alt="Avatar" style={{ objectFit: 'cover', filter: 'drop-shadow(0px 10px 30px #000000)' }} />
+					</div>
+					<div className="col-md-12 mt-4">
+						<p  style={{ color: "beige" }}> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;การเล่นบาคาร่าออนไลน์ นั้นไม่มีการโกงอย่างแน่นอน เนื่องจากเป็นการถ่ายทอดสดจากโต๊ะบาคาร่าจริงจากต่างประเทศ เล่นกันสดๆ ได้ประสบเหมือนเล่นจริงที่
+							<strong>คาสิโน</strong>																						
+								เลยก็ว่าได้ อย่ารอช้าทำไมสมัครได้เลยที่ 
+							<strong style={{fontSize:"24px"}}> 																																							Line: @GtsGold168</strong>
+						</p>
+					</div>
+					<div className="col-md-12 text-center mt-4">
+						<h5 className=" text-neno-titel">รวมเว็บคาสิโนสด</h5>
+					</div>
+					<div className="col-md-12  ">
+						<img src="assets/images/bacara/casino.png"
+							alt="Avatar" style={{ objectFit: 'cover', filter: 'drop-shadow(0px 10px 30px #000000)' }} />
 					</div>
 				</div>
 			</div>

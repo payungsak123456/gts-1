@@ -41,26 +41,26 @@ export default function TheHeader() {
                                             </li>
                                             <li className="nav-item">
                                                 <a className="nav-link" href="/casino">
-                                                    CASINO
+                                                    ยิงปลา
 															<div className="mr-hover-effect"></div>
                                                 </a>
                                             </li>
                                             <li className="nav-item">
                                                 <a className="nav-link" href="/sport">
-                                                    SPORTS
+                                                    แทงบอล
 															<div className="mr-hover-effect"></div>
                                                 </a>
                                             </li>
 
                                             <li className="nav-item">
                                                 <a className="nav-link" href="/slot">
-                                                    SLOT
+                                                    สล็อต
 															<div className="mr-hover-effect"></div>
                                                 </a>
                                             </li>
                                             <li className="nav-item">
                                                 <a className="nav-link" href="/bacara">
-                                                    BARCARA
+                                                    บาคาร่า
 															<div className="mr-hover-effect"></div>
                                                 </a>
                                             </li>
