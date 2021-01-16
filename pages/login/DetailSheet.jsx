@@ -32,6 +32,18 @@ export default function DetailSheet() {
                 <div className="form-group">
                     <button type="submit" className="mybtn1">Log In</button>
                 </div>
+                <div className="form-group">
+                    <span className="pr-2">
+                        <a href="/register">
+                            สมัครออโต้
+                        </a>
+                    </span>
+                    <span className="pr-2">
+                        <a href="/register">
+                            สมัครผ่านไลน์
+                        </a>
+                    </span>
+                </div>
             </form>
         </div>
     );

@@ -26,7 +26,7 @@ export default function TheMobileMenu() {
                     </a>
                 </div>
                 <div className="o-contact">
-                    <a href="" target="_blank">
+                    <a href="/register">
                         <img
                             className="contact-icon lazyloaded"
                             alt="follower ufadeal"
@@ -48,7 +48,7 @@ export default function TheMobileMenu() {
                     </a>
                 </div>
                 <div className="o-contact">
-                    <a href="" target="_blank">
+                    <a href="/line">
                         <img
                             className="contact-icon lazyloaded"
                             alt="coin ufadeal"
@@ -70,7 +70,7 @@ export default function TheMobileMenu() {
                     </a>
                 </div>
                 <div className="o-contact">
-                    <a href="" target="_blank">
+                    <a href="/line" target="_blank">
                         <img
                             className="contact-icon lazyloaded"
                             alt="headphone ufadeal"

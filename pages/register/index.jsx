@@ -1,7 +1,7 @@
 import DetailSheet from './DetailSheet';
-import TheLayout from './../../components/TheLayout';
+import TheLayout from '../../components/TheLayout';
 import NextSeoPage from "./NextSeoPage";
-export default function Login() {
+export default function Register() {
 	return (
 		<div className="bg-image">
 			<NextSeoPage />
