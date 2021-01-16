@@ -190,6 +190,6 @@
 }
 .boder-game {
   border-bottom: #e2c700 5px solid;
-  -webkit-box-shadow: 5px 5px 15px 5px #ffd600;
-  box-shadow: 5px 5px 15px 5px #ffd600;
+  -webkit-box-shadow: 0px 15px 19px 11px #ffd600;
+  box-shadow: 0px 15px 19px 11px #ffd600;
 }

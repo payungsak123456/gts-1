@@ -2,9 +2,6 @@
 export default function DetailSheet() {
   return (
     <div className="pb-5 boder-game" style={{ color: "beige" }}>
-      <div className="boder-game">
-
-      </div>
       <div className="row">
 
         <div className="col-md-12  ">

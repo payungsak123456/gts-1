@@ -26,68 +26,6 @@ export default function ShootFishDetail() {
 						</div>
 					</div>
 				</div>
-				<div className="row">
-					<div className="col-md-12">
-						<div style={{ paddingTop: "5%" }}>
-							<div className="container">
-								<center>
-									<h3 className="text-neno-titel">
-									เรามีเกมยิงปลาจากหลากหลายค่ายให้ท่านได้เล่นมากมาย
-									</h3>
-								</center>
-								<p className="f-sarabun" style={{ color: "beige" }}>
-									&nbsp;&nbsp;ทุกท่านได้รับผลตอบแทนจากการแนะนำเพื่อนให้มาสมัครกับทางเรา
-									0.02% GtsGold168
-									จะพาทุกๆท่านพบกับประสบการณ์หาเงินง่ายๆไม่ต้องออกแรงกับ
-									คาสิโนออนไลน์จากค่ายชั้นนำหลายค่าย หรือพักผ่อนกับเกมส์ สล๊อต
-										ยิงปลา{" "}
-									<b>
-										<u>ที่เพียงแค่เล่นเกมส์ก็ได้เงิน</u>
-									</b>
-										ท่านสามารถเข้ามาเล่นได้ตลอดเวลา การฝากถอนก็ง่ายนิดเดียว
-										เพียงแค่แอดไลน์{" "}
-									<span className="badge badge-pill badge-success">
-										{" "}
-											Line: @GtsGold168
-										</span>
-								</p>
-							</div>
-						</div>
-					</div>
-				</div>
-				<br></br>
-				<br></br>
-				<div className="row">
-
-					<div className="col-lg-6 col-md-7">
-						<div className="videoWrapper">
-							<iframe width="100%" height="315" src="https://www.youtube.com/embed/mfqJyKm20Z4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-						</div>
-					</div>
-					<div className="col-lg-6 col-md-5">
-						{" "}
-						<div style={{ paddingLeft: "10%" }}>
-							<center>
-								<h3 className="text-neno-titel">
-									วิธีการสมัคร
-										</h3>
-							</center>
-							<ul className="f-sarabun" style={{ color: "beige" }}>
-								<li className="f-sarabun">1) แอดไลน์ @GtsGold168 </li>
-								<li className="f-sarabun">2) ใส่ข้อมูลชื่อสกุล</li>
-								<li className="f-sarabun">
-									3)
-									เลขบัญชีธนาคารที่ลูกค้าใช้ในการโอนและรับเงินจากทางเว็บไซต์
-										</li>
-								<li className="f-sarabun">4) เบอร์โทรศัพท์</li>
-								<li className="f-sarabun">5) ID: Line ของลูกค้า</li>
-								<li className="f-sarabun">6) User ผู้แนะนำหรือช่องที่เข้าถึง(ถ้ามี)</li>
-								<li className="f-sarabun">7) เมื่อลูกค้ารับ User แล้วสามารถเข้าสู่ระบบได้เลย</li>
-								<li className="f-sarabun">8) ต่อมาลูกค้าก็จะพบกับประสบการณ์การหาเงินใช้แบบง่ายๆ ได้เร็ว</li>
-							</ul>
-						</div>
-					</div>
-				</div>
 			</div>
 		</div>
 	);
