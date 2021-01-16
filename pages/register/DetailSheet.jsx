@@ -10,9 +10,11 @@ export default function DetailSheet() {
             </div>
             <form action="#" method="POST" className="mx-auto text" style={{ color: '#f5f5dc' }}>
                 <div className="row mx-5">
-                    <div className="col-xl-12">
-                        <label for="input-email" className="pr-2">ไอดี : </label><br />
-                        <input type="username" className="input-field" id="input-email" placeholder="ไอดีเข้าเกมส์" />
+                    <div className="col-lg-6">
+                        <label for="input-username" className="pr-2">ไอดี : </label><br />
+                        <input type="password" className="input-field" id="input-username" placeholder="username" />
+                    </div>
+                    <div className="col-lg-6">
                     </div>
                 </div>
                 <div className="row mx-5">
