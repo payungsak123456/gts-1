@@ -8,7 +8,7 @@ export default function FourOhFour() {
         {/* <!-- favicon --> */}
         <link
           rel="shortcut icon"
-          href="assets/images/favicon.png"
+          href="assets/images/favicon.ico"
           type="image/x-icon"
         />
         {/* <!-- bootstrap --/> */}
