@@ -1,81 +1,31 @@
+import { Navbar, Nav, NavDropdown, Form, FormControl, Button } from 'react-bootstrap';
 
 export default function TheHeader() {
     return (
         <>
             <header className="header">
-                <div className="mainmenu-area ">
-                    <div className="container">
-                        <div className="row">
-                            <div className="col-lg-12">
-                                <nav className="navbar navbar-expand-lg navbar-light">
-                                    <a className="navbar-brand" href="/">
-                                        <img
-                                            src="assets/images/logoicon1.png"
-                                            width="100"
-                                            height="100"
-                                            alt=""
-                                            style={{ position: "relative", objectFit: "contain" }}
-                                        />
-                                    </a>
-                                    <button
-                                        className="navbar-toggler"
-                                        type="button"
-                                        data-toggle="collapse"
-                                        data-target="#main_menu"
-                                        aria-controls="main_menu"
-                                        aria-expanded="false"
-                                        aria-label="Toggle navigation"
-                                    >
-                                        <span className="navbar-toggler-icon"></span>
-                                    </button>
-                                    <div
-                                        className="collapse navbar-collapse fixed-height"
-                                        id="main_menu"
-                                    >
-                                        <ul className="navbar-nav ml-auto text-nav">
-                                            <li className="nav-item ">
-                                                <a className="nav-link " href="/home">
-                                                    HOME
-													<div className="mr-hover-effect"></div>
-                                                </a>
-                                            </li>
-                                            <li className="nav-item">
-                                                <a className="nav-link" href="/bacara">
-                                                    บาคาร่า
-													<div className="mr-hover-effect"></div>
-                                                </a>
-                                            </li>
-                                            <li className="nav-item">
-                                                <a className="nav-link" href="/shootfish">
-                                                    ยิงปลา
-													<div className="mr-hover-effect"></div>
-                                                </a>
-                                            </li>
-                                            <li className="nav-item">
-                                                <a className="nav-link" href="/slot">
-                                                    สล็อต
-													<div className="mr-hover-effect"></div>
-                                                </a>
-                                            </li>
-                                            <li className="nav-item">
-                                                <a className="nav-link" href="/sport">
-                                                    แทงบอล
-													<div className="mr-hover-effect"></div>
-                                                </a>
-                                            </li>
-                                            <li className="nav-item">
-                                                <a className="nav-link" href="/login">
-                                                    Login
-													<div className="mr-hover-effect"></div>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </nav>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                <Navbar bg="black" expand="lg" className="container">
+                    <Navbar.Brand href="#home">
+                        <img
+                            src="assets/images/logoicon1.png"
+                            width="100"
+                            height="100"
+                            alt=""
+                            style={{ position: "relative", objectFit: "contain" }}
+                        />
+                    </Navbar.Brand>
+                    <Navbar.Toggle aria-controls="basic-navbar-nav" />
+                    <Navbar.Collapse id="basic-navbar-nav">
+                        <Nav className="ml-auto">
+                            <Nav.Link href="/home">หน้าแรก</Nav.Link>
+                            <Nav.Link href="/bacara">บาคาร่า</Nav.Link>
+                            <Nav.Link href="/shootfish">ยิงปลา</Nav.Link>
+                            <Nav.Link href="/slot">สล็อต</Nav.Link>
+                            <Nav.Link href="/sport">แทงบอล</Nav.Link>
+                            <Nav.Link href="/login">เข้าสู่เกมส์</Nav.Link>
+                        </Nav>
+                    </Navbar.Collapse>
+                </Navbar>
                 {/* <!--Main-Menu Area Start--> */}
             </header>
         </>

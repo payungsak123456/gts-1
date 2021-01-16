@@ -189,7 +189,7 @@
   text-shadow: 3px 3px 3px #bf7f00, -3px -3px 8px #bf7f00;
 }
 .boder-game {
-  border-bottom: #e2c700 5px solid;
-  -webkit-box-shadow: 0px 15px 19px 11px #ffd600;
-  box-shadow: 0px 15px 19px 11px #ffd600;
+  border-bottom: #e2c700 3px solid;
+  -webkit-box-shadow: -1px -1px 15px 20px #ffd600;
+  box-shadow: -1px -1px 15px 20px #ffd600;
 }

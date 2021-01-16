@@ -40,7 +40,6 @@ export default function MyApp({ Component, pageProps }) {
       <script src="assets/js/TweenMax.js"></script>
       <script src="assets/js/mousemoveparallax.js"></script>
       <script src="assets/js/main.js"></script>
-      <script src="js/jquery-1.11.3.min.js"></script>
     </>
   );
 }
