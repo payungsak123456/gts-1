@@ -5294,9 +5294,9 @@ i {
 	text-align: center;
 }
 @media (min-width: 1200px) {
-	.container {
+	/* .container {
 		margin-right: 0;
 		margin-left: 0;
 		max-width: 100%;
-	}
+	} */
 }
