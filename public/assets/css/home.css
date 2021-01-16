@@ -1,7 +1,7 @@
 .home .text-neon {
   color: #ffe16a;
-  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #d4ac0d, 0 0 40px #d4ac0d, 0 0 50px #d4ac0d, 0 0 60px #d4ac0d,
-    0 0 70px #d4ac0d;
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #d4ac0d, 0 0 40px #d4ac0d,
+    0 0 50px #d4ac0d, 0 0 60px #d4ac0d, 0 0 70px #d4ac0d;
 
   -webkit-animation: glow 1s ease-in-out infinite alternate;
   -moz-animation: glow 1s ease-in-out infinite alternate;
@@ -53,8 +53,9 @@
 }
 .test {
   color: #000000;
-  text-shadow: 0 0 10px rgb(230, 215, 12), 0 0 20px rgb(0, 0, 0), 0 0 30px #ffffff, 0 0 40px #ffffff, 0 0 50px #ffffff,
-    0 0 60px #ffffff, 0 0 70px #ffffff;
+  text-shadow: 0 0 10px rgb(230, 215, 12), 0 0 20px rgb(0, 0, 0),
+    0 0 30px #ffffff, 0 0 40px #ffffff, 0 0 50px #ffffff, 0 0 60px #ffffff,
+    0 0 70px #ffffff;
 
   -webkit-animation: glow 1s ease-in-out infinite alternate;
   -moz-animation: glow 1s ease-in-out infinite alternate;
@@ -119,7 +120,8 @@
   width: 250px;
   height: 125px;
 
-  box-shadow: 5px 5px 30px 7px rgba(0, 0, 0, 0.25), -5px -5px 30px 7px rgba(0, 0, 0, 0.22);
+  box-shadow: 5px 5px 30px 7px rgba(0, 0, 0, 0.25),
+    -5px -5px 30px 7px rgba(0, 0, 0, 0.22);
   cursor: pointer;
   transition: 0.4s;
 }
@@ -148,7 +150,8 @@
 
 .home .card:hover {
   transform: scale(0.9, 0.9);
-  box-shadow: 5px 5px 30px 15px rgba(0, 0, 0, 0.25), -5px -5px 30px 15px rgba(0, 0, 0, 0.22);
+  box-shadow: 5px 5px 30px 15px rgba(0, 0, 0, 0.25),
+    -5px -5px 30px 15px rgba(0, 0, 0, 0.22);
 }
 
 .home .title-white {
@@ -192,4 +195,11 @@
   border-bottom: #e2c700 3px solid;
   -webkit-box-shadow: -1px -1px 15px 20px #ffd600;
   box-shadow: -1px -1px 15px 20px #ffd600;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  font-size: 1.5rem;
+  color: #ffffff;
+  font-weight: bold;
+  text-shadow: 3px 3px 3px #bf7f00, -3px -3px 8px #bf7f00;
 }
