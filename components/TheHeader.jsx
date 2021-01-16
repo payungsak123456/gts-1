@@ -36,38 +36,37 @@ export default function TheHeader() {
                                             <li className="nav-item ">
                                                 <a className="nav-link " href="/home">
                                                     HOME
-															<div className="mr-hover-effect"></div>
-                                                </a>
-                                            </li>
-                                            <li className="nav-item">
-                                                <a className="nav-link" href="/shootfish">
-                                                    ยิงปลา
-															<div className="mr-hover-effect"></div>
-                                                </a>
-                                            </li>
-                                            <li className="nav-item">
-                                                <a className="nav-link" href="/sport">
-                                                    แทงบอล
-															<div className="mr-hover-effect"></div>
-                                                </a>
-                                            </li>
-
-                                            <li className="nav-item">
-                                                <a className="nav-link" href="/slot">
-                                                    สล็อต
-															<div className="mr-hover-effect"></div>
+													<div className="mr-hover-effect"></div>
                                                 </a>
                                             </li>
                                             <li className="nav-item">
                                                 <a className="nav-link" href="/bacara">
                                                     บาคาร่า
-															<div className="mr-hover-effect"></div>
+													<div className="mr-hover-effect"></div>
+                                                </a>
+                                            </li>
+                                            <li className="nav-item">
+                                                <a className="nav-link" href="/shootfish">
+                                                    ยิงปลา
+													<div className="mr-hover-effect"></div>
+                                                </a>
+                                            </li>
+                                            <li className="nav-item">
+                                                <a className="nav-link" href="/slot">
+                                                    สล็อต
+													<div className="mr-hover-effect"></div>
+                                                </a>
+                                            </li>
+                                            <li className="nav-item">
+                                                <a className="nav-link" href="/sport">
+                                                    แทงบอล
+													<div className="mr-hover-effect"></div>
                                                 </a>
                                             </li>
                                             <li className="nav-item">
                                                 <a className="nav-link" href="/login">
                                                     Login
-															<div className="mr-hover-effect"></div>
+													<div className="mr-hover-effect"></div>
                                                 </a>
                                             </li>
                                         </ul>

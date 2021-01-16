@@ -17,17 +17,17 @@ export default function TheFooter() {
                 </div>
                 <div className="-tags-wrapper pt-2">
                     <div className="container">
-                        <div className="row x-footer-seo">
-                            <div className="row text-light pl-5">
+                        <div className="x-footer-seo">
+                            <div className="row text-light">
                                 <div className="col-md-3 col-lg-3 text-center">
                                     <h3>
                                         <strong className="text-neno-titel">เกี่ยวกับเรา</strong>
                                     </h3>
-                                    <p className="text-white-50 small">
+                                    <p className=" small" style={{ color: "beige" }}>
                                         GTS168.COM Partner of GTS168 เว็บพนันออนไลน์ แทงบอลออนไลน์
-                                คาสิโนออนไลน์ ครบครัน สามารถฝากถอนง่ายรวดเร็ว{" "}
+                                        คาสิโนออนไลน์ ครบครัน สามารถฝากถอนง่ายรวดเร็ว{" "}
                                     </p>
-                                    <p className="small text-white-50">
+                                    <p className="small " style={{ color: "beige" }}               >
                                         GTSCASINO GTSSLOT SA Gaming Joker Gaming REDTIGER PGSLOT
 										King Maker{" "}
                                     </p>
@@ -89,16 +89,14 @@ export default function TheFooter() {
                                     </ul>{" "}
                                 </div>
                                 <div className="col-md-3 col-lg-3 text-center">
-                                    <div className="container">
-                                        <div style={{ paddingRight: "10%", paddingTop: "5%" }}>
+                                    <div className="container mt-md-0 mt-xs-5">
                                             <img src="https://ufadeal.com/wp-content/themes/deal-theme/assets/ic-bank-logo.png"></img>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
 
                         </div>
-                        <div style={{width: '100%'}} className="mb-5 text-center">
+                        <div style={{ width: '100%' }} className="mb-5 text-center">
                             {/* <a href="" className="btn btn-sm">
                                 GTSSLOT
 										</a>

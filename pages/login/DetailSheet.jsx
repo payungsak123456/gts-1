@@ -5,8 +5,9 @@ export default function DetailSheet() {
             <h2 className="title">Login</h2>
             <form action="#" className="text-center" method="POST">
                 <img src="assets/images/logoicon1.png"
-                    width="200"
-                    alt="Avatar" style={{ objectFit: 'cover', filter: 'drop-shadow(0px 10px 30px #000000)' }} />
+                    width="180"
+                    className="mb-4"
+                    alt="Avatar" style={{ objectFit: 'cover', filter: 'drop-shadow(0px 10px 30px #ffa400)' }} />
                 <div className="form-group">
                     <label for="login-input-email" className="pr-2">Username : </label>
                     <input type="email" className="input-field" id="login-input-email" placeholder="Enter your Email" />

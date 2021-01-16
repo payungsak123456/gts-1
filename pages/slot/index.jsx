@@ -1,12 +1,14 @@
 import TheLayout from '../../components/TheLayout';
-import SportDetail from './SportDetail';
+import SlotDetail from './SlotDetail';
 import NextSeoPage from "./NextSeoPage";
+import GameSheet from './GameSheet';
 export default function SportPage() {
 	return (
-		<div className="bg-image">
+		<div className="bg-image slot">
 			<NextSeoPage/>
 			<TheLayout>
-			<SportDetail/>
+			<SlotDetail/>
+			<GameSheet/>
 			</TheLayout>
 		</div>
 	);

@@ -6,16 +6,16 @@ export default function BacaraDetail() {
 					<div className="col-md-12  ">
 						<div className="container " style={{ color: "beige", paddingTop: "5%" }}>
 							<center>
-								<h3 className=" text-neno-titel">
+								<h1 className=" text-neno-titel">
 									บาคาร่าออนไลน์
-									</h3>
+									</h1>
 							</center>
 							<br></br>
 							<p style={{ color: "beige" }}>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;หากท่านต้องการเสี่ยงโชคกับบาคาร่า เรามี<b>เว็บบาคาร่าออนไลน์</b> หลากหลายค่ายให้ท่านได้เลือกเล่นได้มากมาย ร่วมทั้งมี
 									<strong style={{ fontSize: "30px" }}>เซ็กซี่บาคาร่า</strong>
-								<b style={{ fontSize: "24px" }}>กับการไลฟ์สดเปิดไพ่ของสาวๆ ในชุดดีกินนี่เล่นบาคาร่าพร้อมกับการดูสาวไปเพลินๆเลยนะคะ</b>
+								<b className="text-neno-titel f-s-20" style={{ fontSize: "24px" }}>กับการไลฟ์สดเปิดไพ่ของสาวๆ ในชุดดีกินนี่เล่นบาคาร่าพร้อมกับการดูสาวไปเพลินๆเลยนะคะ</b>
 									&nbsp; &nbsp; &nbsp;เล่นบาคาร่าจากไลฟ์สดกันเลย
-									<strong style={{ fontSize: "24px" }}>&nbsp;บาคาร่า เซ็กซี่บาคาร่า</strong>
+									<strong className="text-neno-titel f-s-20" style={{ fontSize: "24px" }}>&nbsp;บาคาร่า เซ็กซี่บาคาร่า</strong>
 							</p>
 						</div>
 					</div>
