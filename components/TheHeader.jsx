@@ -40,7 +40,7 @@ export default function TheHeader() {
                                                 </a>
                                             </li>
                                             <li className="nav-item">
-                                                <a className="nav-link" href="/casino">
+                                                <a className="nav-link" href="/shootfish">
                                                     ยิงปลา
 															<div className="mr-hover-effect"></div>
                                                 </a>
