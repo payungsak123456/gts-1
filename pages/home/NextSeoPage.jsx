@@ -5,13 +5,13 @@ export default function NextSeoPage() {
     return (
         <>
             <NextSeo
-                title="Page Meta Title"
-                description="This will be the page meta description"
-                canonical="https://www.canonicalurl.ie/"
+                title="GTS GOLD 168 - HOME"
+                description="GTS GOLD 168 SPORT BETTING AND CASINO ONLINE"
+                canonical="http://gts.chungserver.com/"
                 openGraph={{
-                    url: "https://www.canonicalurl.ie/",
-                    title: "Open Graph Title",
-                    description: "Open Graph Description",
+                    url: "http://gts.chungserver.com/",
+                    title: "GTS GOLD 168 - HOME",
+                    description: "GTS GOLD 168 SPORT BETTING AND CASINO ONLINE",
                     images: [
                         {
                             url: "https://www.example.ie/og-image-01.jpg",
