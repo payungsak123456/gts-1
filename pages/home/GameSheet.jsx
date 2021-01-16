@@ -4,7 +4,7 @@ export default function GameSheet() {
 		<>
 			<div className="container">
 				<div className="pt-5 text-center">
-					<h1 className="text-neno-titel">เว็บคาสิโน จากค่ายชั้นนำ</h1>
+					<h3 className="text-neno-titel">เว็บคาสิโน จากค่ายชั้นนำ</h3>
         		</div>
 				<div className="cards-list">
 					<div className="card 1">

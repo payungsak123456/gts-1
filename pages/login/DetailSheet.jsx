@@ -2,7 +2,7 @@
 export default function DetailSheet() {
     return (
         <div className="login" >
-            <h2 className="title">Login</h2>
+            {/* <h2 className="title">Login</h2> */}
             <form action="#" className="text-center" method="POST">
                 <img src="assets/images/logoicon1.png"
                     width="180"

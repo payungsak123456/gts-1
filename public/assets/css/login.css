@@ -1,15 +1,26 @@
 .login {
-    position: relative;
-    padding: 2rem;
-    background: rgb(252, 237, 181);
-    background: radial-gradient( circle, rgb(80 80 80) 0%, rgb(83 83 83) 42%, rgb(56 56 56) 56%, rgba(0, 0, 0, 1) 86% );
-    color: beige;
+	position: relative;
+	padding: 2rem;
+	background: rgb(252, 237, 181);
+	background: radial-gradient(
+		circle,
+		rgb(80 80 80) 0%,
+		rgb(83 83 83) 42%,
+		rgb(56 56 56) 56%,
+		rgba(0, 0, 0, 1) 86%
+	);
+	color: beige;
 }
-.login .form .st-logo{
-    -webkit-filter: drop-shadow(0px 10px 30px #000000);
-    filter: drop-shadow(0px 10px 30px #000000);
+.login .form .st-logo {
+	-webkit-filter: drop-shadow(0px 10px 30px #000000);
+	filter: drop-shadow(0px 10px 30px #000000);
 }
 .login .title {
-    position: absolute;
-    text-shadow: 3px 3px 3px #bf7f00, -3px -3px 8px #bf7f00;
+	position: absolute;
+	text-shadow: 3px 3px 3px #bf7f00, -3px -3px 8px #bf7f00;
+}
+@media (max-width: 800px) {
+	.login .title {
+		display: none;
+	}
 }

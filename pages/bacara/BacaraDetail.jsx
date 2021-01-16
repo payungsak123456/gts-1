@@ -37,7 +37,11 @@ export default function BacaraDetail() {
 						<p  style={{ color: "beige" }}> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;การเล่นบาคาร่าออนไลน์ นั้นไม่มีการโกงอย่างแน่นอน เนื่องจากเป็นการถ่ายทอดสดจากโต๊ะบาคาร่าจริงจากต่างประเทศ เล่นกันสดๆ ได้ประสบเหมือนเล่นจริงที่
 							<strong>คาสิโน</strong>																						
 								เลยก็ว่าได้ อย่ารอช้าทำไมสมัครได้เลยที่ 
-							<strong style={{fontSize:"24px"}}> 																																							Line: @GtsGold168</strong>
+							<strong style={{ fontSize: "24px" }}>
+								<span className="badge badge-pill badge-success">
+                {" "}
+											Line: @GtsGold168
+										</span></strong>
 						</p>
 					</div>
 					<div className="col-md-12 text-center mt-4">

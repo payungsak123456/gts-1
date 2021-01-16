@@ -19,7 +19,7 @@ export default function TheFooter() {
                     <div className="container">
                         <div className="x-footer-seo">
                             <div className="row text-light">
-                                <div className="col-md-3 col-lg-3 text-center">
+                                <div className="col-md-3 col-lg-3 text-center shadow-f">
                                     <h3>
                                         <strong className="text-neno-titel">เกี่ยวกับเรา</strong>
                                     </h3>
@@ -32,11 +32,11 @@ export default function TheFooter() {
 										King Maker{" "}
                                     </p>
                                 </div>
-                                <div className="col-md-3 col-lg-3 text-center">
+                                <div className="col-md-3 col-lg-3 text-center shadow-f">
                                     <h3>
                                         <strong className="text-neno-titel">CASINO</strong>
                                     </h3>
-                                    <ul id="menu-header-menu-2" className="nav flex-column">
+                                    <ul id="menu-header-menu-2" className="nav flex-column shadow-f">
                                         <li className="nav-item py-0">
                                             <a href="">หน้าแรก</a>
                                         </li>
@@ -60,7 +60,7 @@ export default function TheFooter() {
                                         </li>
                                     </ul>{" "}
                                 </div>
-                                <div className="col-md-3 col-lg-3 text-center">
+                                <div className="col-md-3 col-lg-3 text-center shadow-f">
                                     <h3>
                                         <strong className="text-neno-titel">BLOG</strong>
                                     </h3>

@@ -148,7 +148,7 @@ p {
 }
 
 a {
-	color: #fff;
+	color: #fff !important; 
 	text-decoration: none;
 }
 
@@ -5296,4 +5296,8 @@ i {
 .nav-link{
 	margin-left: 1rem;
     margin-right: 1rem;
+}
+
+.shadow-f{
+	    text-shadow: 3px 3px 3px #bf7f00, -3px -3px 8px #bf7f00, 1px 1px 20px #000000;
 }
