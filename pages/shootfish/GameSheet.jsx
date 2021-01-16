@@ -8,88 +8,116 @@ export default function GameSheet() {
         		</div>
 				<div className="cards-list">
 					<div className="card 1">
-						<div className="card_image">
+						<a href="/login">
+							<div className="card_image">
 							{" "}
 							<img src="https://sv1.picz.in.th/images/2021/01/16/l5p8Lz.png" />{" "}
-						</div>
+							</div>
+						</a>
 					</div>
 					<div className="card 1">
-						<div className="card_image">
+						<a href="/login">
+							<div className="card_image">
 							{" "}
 							<img src="https://sv1.picz.in.th/images/2021/01/16/l5prDq.png" />{" "}
-						</div>
+							</div>
+						</a>
 					</div>
 					<div className="card 1">
-						<div className="card_image">
+						<a href="/login">
+							<div className="card_image">
 							{" "}
 							<img src="https://sv1.picz.in.th/images/2021/01/16/l5pXER.png" />{" "}
-						</div>
+							</div>
+						</a>
 					</div>
 					<div className="card 1">
-						<div className="card_image">
+						<a href="/login">
+							<div className="card_image">
 							{" "}
 							<img src="https://sv1.picz.in.th/images/2021/01/16/l5pVh8.png" />{" "}
-						</div>
+							</div>
+						</a>
 					</div>
 					<div className="card 1">
-						<div className="card_image">
+						<a href="/login">
+							<div className="card_image">
 							{" "}
 							<img src="https://sv1.picz.in.th/images/2021/01/16/l5paX0.png" />{" "}
-						</div>
+							</div>
+						</a>
 					</div>
 					<div className="card 1">
-						<div className="card_image">
+						<a href="/login">
+							<div className="card_image">
 							{" "}
 							<img src="https://sv1.picz.in.th/images/2021/01/16/l5pvYu.png" />{" "}
-						</div>
+							</div>
+						</a>
 					</div>
 					<div className="card 1">
-						<div className="card_image">
+						<a href="/login">
+							<div className="card_image">
 							{" "}
 							<img src="https://sv1.picz.in.th/images/2021/01/16/l5pGRZ.png" />{" "}
-						</div>
+							</div>
+						</a>
 					</div>
 					<div className="card 1">
-						<div className="card_image">
+						<a href="/login">
+							<div className="card_image">
 							{" "}
 							<img src="https://sv1.picz.in.th/images/2021/01/16/l5pJuI.png" />{" "}
-						</div>
+							</div>
+						</a>
 					</div>
 					<div className="card 1">
-						<div className="card_image">
+						<a href="/login">
+							<div className="card_image">
 							{" "}
 							<img src="https://sv1.picz.in.th/images/2021/01/16/l5pLMP.png" />{" "}
-						</div>
+							</div>
+						</a>
 					</div>
 					<div className="card 1">
-						<div className="card_image">
+						<a href="/login">
+							<div className="card_image">
 							{" "}
 							<img src="https://sv1.picz.in.th/images/2021/01/16/l5pm1t.png" />{" "}
-						</div>
+							</div>
+						</a>
 					</div>
 					<div className="card 1">
-						<div className="card_image">
+						<a href="/login">
+							<div className="card_image">
 							{" "}
 							<img src="https://sv1.picz.in.th/images/2021/01/16/l5pyDe.png" />{" "}
-						</div>
+							</div>
+						</a>
 					</div>
 					<div className="card 1">
-						<div className="card_image">
+						<a href="/login">
+							<div className="card_image">
 							{" "}
 							<img src="https://sv1.picz.in.th/images/2021/01/16/l5pFLl.png" />{" "}
-						</div>
+							</div>
+						</a>
 					</div>
 					<div className="card 1">
-						<div className="card_image">
+						<a href="/login">
+							<div className="card_image">
 							{" "}
 							<img src="https://sv1.picz.in.th/images/2021/01/16/l5pMkk.png" />{" "}
-						</div>
+							</div>
+						</a>
 					</div>
 					<div className="card 1">
-						<div className="card_image">
+						<a href="/login">
+							<div className="card_image">
 							{" "}
 							<img src="https://sv1.picz.in.th/images/2021/01/16/l5vWEv.png" />{" "}
-						</div>
+							</div>
+						</a>
 					</div>
 				</div>
 

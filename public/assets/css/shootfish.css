@@ -1,3 +1,5 @@
 .shootfish .card {
+    width: 180px;
     height: unset;
+    margin: 0;
 }

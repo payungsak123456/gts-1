@@ -5293,10 +5293,7 @@ i {
 .navbar-collapse .collapse {
 	text-align: center;
 }
-@media (min-width: 1200px) {
-	/* .container {
-		margin-right: 0;
-		margin-left: 0;
-		max-width: 100%;
-	} */
+.nav-link{
+	margin-left: 1rem;
+    margin-right: 1rem;
 }
