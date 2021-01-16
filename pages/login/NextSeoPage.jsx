@@ -39,7 +39,7 @@ export default function NextSeoPage() {
                     name="viewport"
                     content="width=device-width, initial-scale=1.0"
                 />
-                <title> Dooplo - Gaming HTML Template</title>
+                <title> GTS GOLD 168 - LOGIN </title>
                 <link
                     rel="shortcut icon"
                     href="assets/images/favicon.png"
