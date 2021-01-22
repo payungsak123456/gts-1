@@ -1,7 +1,7 @@
 import TheHeader from "./TheHeader";
 import TheBillboard from "./TheBillboard";
 import TheFooter from "./TheFooter";
-import TheMobileMenu from "./TheMobileMenu";
+// import TheMobileMenu from "./TheMobileMenu";
   
 const TheLayout = (props) => (
   <>
@@ -15,7 +15,7 @@ const TheLayout = (props) => (
         <TheFooter />
       </div>
     </div>
-    <TheMobileMenu />
+    {/* <TheMobileMenu /> */}
   </>
 );
 

@@ -83,11 +83,11 @@
 	margin: 0px 0px 0px 0px;
 	padding: 5px 0px 5px 0px;
 	text-align: center;
-	background-color: #57c42e;
+	/* background-color: #57c42e; */
 }
 #topbar {
 	position: fixed;
-	width: 120px;
+	width: 60px;
 	z-index: 10;
 	right: 10px;
 	top: 25rem;
@@ -96,10 +96,13 @@
 	-o-transition: all 0.5s ease-in-out 0s;
 	-moz-transition: all 0.5s ease-in-out 0s;
 	transition: all 0.5s ease-in-out 0s;
+	background-color: #57c42e;
+    padding: 5px;
+    border-radius: 0.5rem;
 }
 #topbar2 {
 	position: fixed;
-	width: 95px;
+	width: 200px;
 	z-index: 99999999;
 	left: 10px;
 	top: 10rem;
@@ -108,6 +111,7 @@
 	-o-transition: all 0.5s ease-in-out 0s;
 	-moz-transition: all 0.5s ease-in-out 0s;
 	transition: all 0.5s ease-in-out 0s;
+
 }
 .home .card {
 	margin: 30px auto;
@@ -173,9 +177,15 @@
 		visibility: hidden;
 	}
 }
-@media only screen and (max-width: 768px) {
+@media only screen and (min-width: 768px) {
+	#topbar2 {
+		top: 10rem;
+	}
+}
+@media only screen and (max-width: 767px) {
 	#topbar2 {
 		width: 70px;
+		visibility: hidden;
 		top: 10rem;
 	}
 }
@@ -195,5 +205,5 @@
   font-size: 1.5rem;
   color: #ffffff;
   font-weight: bold;
-  text-shadow: 3px 3px 3px #bf7f00, -3px -3px 8px #bf7f00;
+  /* text-shadow: 3px 3px 3px #bf7f00, -3px -3px 8px #bf7f00; */
 }

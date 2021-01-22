@@ -4,7 +4,6 @@
  * can be found here: https://github.com/garmeeh/next-seo#default-seo-configuration
  */
 import { DefaultSeo } from "next-seo";
-
 import SEO from "../next-seo.config";
 
 // Import Swiper styles

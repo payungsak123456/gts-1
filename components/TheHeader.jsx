@@ -4,7 +4,75 @@ export default function TheHeader() {
     return (
         <>
             <header className="header">
-                <Navbar bg="black" expand="lg" >
+            <div className="m-contact d-lg-none " style={{bottom:'unset'}}>
+                    <div className="o-contact" style={{width:'50%'}}>
+                        <a href="/login" >
+                            <img
+                                className="contact-icon lazyloaded"
+                                alt="login ufadeal"
+                                // width="32px"
+                                // height="32px"
+                                src="assets/images/billboard/bank.png"
+                                // data-ll-status="loaded"
+                            />
+                            {/* <noscript>
+                                <img
+                                    className="contact-icon"
+                                    alt="login ufadeal"
+                                    width="32px"
+                                    height="32px"
+                                    src="https://ufadeal.com/wp-content/themes/deal-theme/assets/login.png"
+                                />
+                            </noscript>
+                            <span className="text-contact">เข้าสู่ระบบ</span> */}
+                        </a>
+                    </div>
+                    <div className="o-contact" style={{width:'50%'}}>
+                        <a href="/register">
+                            <img
+                                className="contact-icon lazyloaded"
+                                alt="follower ufadeal"
+                                // width="32px"
+                                // height="32px"
+                                src="assets/images/billboard/register-web.png"
+                                // data-ll-status="loaded"
+                            />
+                            {/* <noscript>
+                                <img
+                                    className="contact-icon"
+                                    alt="follower ufadeal"
+                                    width="32px"
+                                    height="32px"
+                                    src="https://ufadeal.com/wp-content/themes/deal-theme/assets/follower.png"
+                                />
+                            </noscript> */}
+                            {/* <span className="text-contact contact-info">สมัครสมาชิก</span> */}
+                        </a>
+                    </div>
+                    <div className="o-contact" style={{width:'100%'}}>
+                        <a href="https://lin.ee/KE4VK7d">
+                            <img
+                                className="contact-icon lazyloaded"
+                                // alt="coin ufadeal"
+                                // width="32px"
+                                // height="32px"
+                                src="assets/images/billboard/bank.png"
+                                // data-ll-status="loaded"
+                            />
+                            {/* <noscript>
+                                <img
+                                    className="contact-icon"
+                                    alt="coin ufadeal"
+                                    width="32px"
+                                    height="32px"
+                                    src="https://ufadeal.com/wp-content/themes/deal-theme/assets/coin.png"
+                                />
+                            </noscript> */}
+                            {/* <span className="text-contact contact-info">ฝาก-ถอน</span> */}
+                        </a>
+                    </div>
+                </div>
+                <Navbar bg="black" expand="lg" className="">
                     <div className="container">
                         <Navbar.Brand href="#home">
                             <img

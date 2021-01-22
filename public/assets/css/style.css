@@ -166,6 +166,7 @@ a i {
 
 img {
 	max-width: 100%;
+	min-width: 1%;
 }
 
 ul {
@@ -1552,9 +1553,10 @@ select:focus {
 .hero-area {
 	position: relative;
 	padding: 130px 0px 0px;
+	padding: 150px 0px 0px;
 	position: relative;
-	box-shadow: 0px 0px 20px 14px black;
-	background-color: #000;
+	box-shadow: 0px 0px 20px 6px black;
+	background-color: #00000061;
 	overflow: hidden;
 }
 .hero-area .left-content {
@@ -5287,7 +5289,7 @@ i {
 	font-size: 1.5rem;
 	color: #ffffff;
 	font-weight: bold;
-	text-shadow: 3px 3px 3px #bf7f00, -3px -3px 8px #bf7f00;
+	/* text-shadow: 3px 3px 3px #bf7f00, -3px -3px 8px #bf7f00; */
 }
 .navbar-collapse.collapse.show,
 .navbar-collapse .collapse {
@@ -5300,4 +5302,15 @@ i {
 
 .shadow-f{
 	    text-shadow: 3px 3px 3px #bf7f00, -3px -3px 8px #bf7f00, 1px 1px 20px #000000;
+}
+header .contact-icon{
+	height:100px;
+}
+header .o-contact{
+	padding: 0;
+}
+@media only screen and (max-width: 767px) {
+	header .contact-icon{
+		height:80px;
+	}
 }

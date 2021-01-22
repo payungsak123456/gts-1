@@ -177,7 +177,7 @@
     padding: 8px 0px;
   }
   .hero-area {
-    padding: 120px 0px 0px;
+    padding: 230px 0px 0px;
   }
   .hero-area .hero-img {
     top: 40px;
@@ -743,7 +743,7 @@
 
 @media (max-width: 575px) {
   .hero-area {
-    padding: 125px 0px 0px;
+    padding: 200px 0px 0px;
   }
   .hero-area .left-content .content .subtitle {
     font-size: 20px;
@@ -1252,7 +1252,7 @@
     padding: 258px 0px 264px;
   }
   .hero-area {
-    padding: 115px 0px 0px;
+    padding: 170px 0px 0px;
   }
 
   .breadcrumb-area.play {

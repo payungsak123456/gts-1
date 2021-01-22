@@ -34,12 +34,12 @@ export default function BacaraDetail() {
 							alt="Avatar" style={{ objectFit: 'cover', filter: 'drop-shadow(0px 10px 30px #000000)' }} />
 					</div>
 					<div className="col-md-12 mt-4">
-						<p  style={{ color: "beige" }}> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;การเล่นบาคาร่าออนไลน์ นั้นไม่มีการโกงอย่างแน่นอน เนื่องจากเป็นการถ่ายทอดสดจากโต๊ะบาคาร่าจริงจากต่างประเทศ เล่นกันสดๆ ได้ประสบเหมือนเล่นจริงที่
-							<strong>คาสิโน</strong>																						
-								เลยก็ว่าได้ อย่ารอช้าทำไมสมัครได้เลยที่ 
+						<p style={{ color: "beige" }}> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;การเล่นบาคาร่าออนไลน์ นั้นไม่มีการโกงอย่างแน่นอน เนื่องจากเป็นการถ่ายทอดสดจากโต๊ะบาคาร่าจริงจากต่างประเทศ เล่นกันสดๆ ได้ประสบเหมือนเล่นจริงที่
+							<strong>คาสิโน</strong>
+								เลยก็ว่าได้ อย่ารอช้าทำไมสมัครได้เลยที่
 							<strong style={{ fontSize: "24px" }}>
 								<span className="badge badge-pill badge-success">
-                {" "}
+									{" "}
 											Line: @GtsGold168
 										</span></strong>
 						</p>
@@ -48,8 +48,8 @@ export default function BacaraDetail() {
 						<h5 className=" text-neno-titel">รวมเว็บคาสิโนสด</h5>
 					</div>
 					<div className="col-md-12  ">
-						<img src="assets/images/bacara/casino.png"
-							alt="Avatar" style={{ objectFit: 'cover', filter: 'drop-shadow(0px 10px 30px #000000)' }} />
+							<img src="assets/images/bacara/casino.png"
+								alt="Avatar" style={{ objectFit: 'cover', filter: 'drop-shadow(0px 10px 30px #000000)' }} />
 					</div>
 				</div>
 			</div>
