@@ -6,11 +6,11 @@ export default function ThePopup() {
     const handleShow = () => setShow(false);
     return (
         <>
-            <Modal show={show} onHide={handleClose} backdrop="static" keyboard={false} className="d-flex justify-content-center">
+            <Modal show={show} onHide={handleClose} backdrop="static" keyboard={false} className="d-flex justify-content-center the-popup">
                 <Modal.Header closeButton>
                 </Modal.Header>
                 <Modal.Body>
-                    <Image src="assets/images/popup.png" />
+                    <Image src="assets/images/popup.png" className="border border-white rounded" />
                 </Modal.Body>
             </Modal>
         </>

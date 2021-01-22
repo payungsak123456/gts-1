@@ -12,7 +12,7 @@ export default function TheHeader() {
                                 alt="login ufadeal"
                                 // width="32px"
                                 // height="32px"
-                                src="assets/images/billboard/bank.png"
+                                src="assets/images/billboard/register-line.png"
                                 // data-ll-status="loaded"
                             />
                             {/* <noscript>
