@@ -4,7 +4,7 @@ export default function TheBillboard() {
         <>
             <div
                 id="topbar2"
-                className="fxx tt_open2 d-sm-none d-xs-none"
+                className="d-xs-none d-sm-none d-md-none d-lg-block fxx tt_open2"
             >
                 <a
                     className="tt_l mb-5 tt_img_fixed2"
