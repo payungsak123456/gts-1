@@ -4,7 +4,7 @@ export default function TheHeader() {
     return (
         <>
             <header className="header">
-            <div className="m-contact d-lg-none " style={{bottom:'unset'}}>
+            <div className="m-contact d-lg-none " id="m-contact" style={{bottom:'unset'}}>
                     <div className="o-contact" style={{width:'50%'}}>
                         <a href="/login" >
                             <img
@@ -74,7 +74,7 @@ export default function TheHeader() {
                 </div>
                 <Navbar bg="black" expand="lg" className="">
                     <div className="container">
-                        <Navbar.Brand href="#home">
+                        <Navbar.Brand href="#home" id="NavbarBrand">
                             <img
                                 src="assets/images/logoicon1.png"
                                 width="100"
@@ -83,7 +83,7 @@ export default function TheHeader() {
                                 style={{ position: "relative", objectFit: "contain" }}
                             />
                         </Navbar.Brand>
-                        <Navbar.Toggle aria-controls="basic-navbar-nav" />
+                        <Navbar.Toggle aria-controls="basic-navbar-nav" id="basic-navbar" />
                         <Navbar.Collapse id="basic-navbar-nav">
                             <Nav className="ml-auto">
                                 <Nav.Link href="/home">หน้าแรก</Nav.Link>
