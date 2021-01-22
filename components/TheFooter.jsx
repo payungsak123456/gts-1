@@ -38,19 +38,19 @@ export default function TheFooter() {
                                     </h3>
                                     <ul id="menu-header-menu-2" className="nav flex-column shadow-f">
                                         <li className="nav-item py-0">
-                                            <a href="">หน้าแรก</a>
+                                            <a href="/home">หน้าแรก</a>
                                         </li>
                                         <li className="nav-item py-0">
-                                            <a href="">คาสิโนออนไลน์</a>
+                                            <a href="/casino">คาสิโนออนไลน์</a>
                                         </li>
                                         <li className="nav-item py-0">
-                                            <a href="">แทงบอลออนไลน์</a>
+                                            <a href="/sport">แทงบอลออนไลน์</a>
                                         </li>
                                         <li className="nav-item py-0">
-                                            <a href="">Slot ( สล็อตออนไลน์ )</a>
+                                            <a href="slot">Slot ( สล็อตออนไลน์ )</a>
                                         </li>
                                         <li className="nav-item py-0">
-                                            <a href="">เกมยิงปลา</a>
+                                            <a href="/shootfish">เกมยิงปลา</a>
                                         </li>
                                         <li className="nav-item py-0">
                                             <a href="">แทงไฮโล</a>

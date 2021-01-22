@@ -1,4 +1,5 @@
 import TheLayout from '../components/TheLayout'
+import ThePopup from '../components/ThePopup';
 import HomePage from './home/HomePage'
 export default function Home() {
 	return (
@@ -6,6 +7,7 @@ export default function Home() {
 			<TheLayout>
 				<HomePage/>
 			</TheLayout>
+			<ThePopup/>
 		</div>
 	);
 }

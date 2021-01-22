@@ -9,7 +9,7 @@ export default function DetailSheet() {
                     alt="Avatar" style={{ objectFit: 'cover', filter: 'drop-shadow(0px 10px 30px #ffa400)' }} />
             </div>
             <form action="#" method="POST" className="mx-auto text" style={{ color: '#f5f5dc' }}>
-                <div className="row mx-5">
+                <div className="row mx-md-5 mx-lg-5">
                     <div className="col-lg-6">
                         <label for="input-username" className="pr-2">ไอดี : </label><br />
                         <input type="password" className="input-field" id="input-username" placeholder="username" />
@@ -17,7 +17,7 @@ export default function DetailSheet() {
                     <div className="col-lg-6">
                     </div>
                 </div>
-                <div className="row mx-5">
+                <div className="row mx-md-5 mx-lg-5">
                     <div className="col-lg-6">
                         <label for="input-password" className="pr-2">รหัสผ่าน : </label><br />
                         <input type="password" className="input-field" id="input-password" placeholder="รหัสผ่าน" />
@@ -27,7 +27,7 @@ export default function DetailSheet() {
                         <input type="password" className="input-field" id="input-password" placeholder="ยืนยันรหัสผ่าน" />
                     </div>
                 </div>
-                <div className="row mx-5">
+                <div className="row mx-md-5 mx-lg-5">
                     <div className="col-lg-6">
                         <label for="input-fristname" className="pr-2">ชื่อจริง </label><br />
                         <input type="text" className="input-field" id="input-fristname" placeholder="กรอกชื่อจริงที่ตรงกับบัญชีเท่านั้น" />
@@ -37,7 +37,7 @@ export default function DetailSheet() {
                         <input type="text" className="input-field" id="input-lastname" placeholder="กรอกนามสกุลจริงที่ตรงกับบัญชีเท่านั้น" />
                     </div>
                 </div>
-                <div className="row mx-5">
+                <div className="row mx-md-5 mx-lg-5">
                     <div className="col-lg-6">
                         <label for="input-lastname" className="pr-2">เลือกธนาคาร </label><br />
                         <select placeholder="เลือกธนาคาร">
@@ -55,7 +55,7 @@ export default function DetailSheet() {
                         <input type="text" className="input-field" id="input-lastname" placeholder="กรอกนามสกุลจริงที่ตรงกับบัญชีเท่านั้น" />
                     </div>
                 </div>
-                <div className="row mx-5">
+                <div className="row mx-md-5 mx-lg-5">
                     <div className="col-lg-6">
                         <label for="input-lastname" className="pr-2">เบอร์ </label><br />
                         <input type="text" className="input-field" id="input-lastname" placeholder="กรอกนามสกุลจริงที่ตรงกับบัญชีเท่านั้น" />
