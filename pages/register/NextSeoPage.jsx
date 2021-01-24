@@ -31,9 +31,9 @@ export default function NextSeoPage() {
                 }}
             />
             <Head>
-                <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-                <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-                <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+                <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
+                <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+                <meta httpEquiv="X-UA-Compatible" content="ie=edge" />
                 <meta name="forntEnd-Developer" content="Mamunur Rashid" />
                 <meta
                     name="viewport"

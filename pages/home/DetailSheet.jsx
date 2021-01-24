@@ -83,7 +83,7 @@ export default function DetailSheet() {
 
         <div className="col-lg-7">
           <div className="videoWrapper">
-            <iframe width="100%" height="315" src="https://www.youtube.com/embed/mfqJyKm20Z4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            <iframe width="100%" height="315" src="https://www.youtube.com/embed/mfqJyKm20Z4" frameBorder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           </div>
         </div>
         <div className="col-lg-5">
