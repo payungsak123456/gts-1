@@ -5,9 +5,9 @@ export default function TheMobileMenu() {
             <div className="m-contact d-lg-none">
                 <div className="o-contact" onClick={()=> {
                 document.getElementById("basic-navbar-nav").classList.toggle("show");
-                document.getElementById("m-contact").classList.toggle("d-none");
-                document.getElementById("NavbarBrand").classList.toggle("d-none");
-                document.getElementById("basic-navbar").classList.toggle("d-none");
+                //  document.getElementById("m-contact").classList.toggle("d-none");
+                // document.getElementById("NavbarBrand").classList.toggle("d-none");
+                // document.getElementById("basic-navbar").classList.toggle("d-none");
                 }}>
                     <a href={() => {}} >
                         <img
