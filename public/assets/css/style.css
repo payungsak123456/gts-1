@@ -6169,3 +6169,10 @@ header .o-contact {
 		padding-top: 2rem;
 	}
 }
+
+.nav-custom-gts{
+	font-size: 1.5rem;
+	color: #ffffff;
+	font-weight: bold;
+	text-shadow: 3px 3px 3px #bf7f00, -3px -3px 8px #bf7f00;
+}
