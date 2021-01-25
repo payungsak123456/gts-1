@@ -42,7 +42,7 @@ export default function NextSeoPage() {
                 <title> GTS GOLD 168 - SPORT </title>
                 <link
                     rel="shortcut icon"
-                    href="assets/images/favicon.ico"
+                    href="/assets/images/favicon.ico"
                     type="image/x-icon"
                 />
             </Head>
