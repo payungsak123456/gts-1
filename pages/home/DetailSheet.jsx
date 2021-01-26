@@ -11,19 +11,19 @@ export default function DetailSheet() {
 								</h4>
 							</center>
 							<br></br>
+							
 							<div style={{ textAlign: "justify" }}>
-								&nbsp;&nbsp; GtsGold168 &nbsp;
-								เป็นเว็บพนันที่ดีที่สุดในประเทศไทย เป็นเว็บไซต์&nbsp;
-								คาสิโนครบวงจร <b className="text-neno-titel">บาคาร่า</b>{" "}
-								ไพ่เสือมังกร สล็อต(Slot){" "}
-								<b className="text-neno-titel">เกมส์ยิงปลา</b> แทงบอล ลอตเตอรี่
-								หวย จากค่าย UFA และ รวมค่ายคาสิโนชั้นนำของโลก
-								เข้ามาไว้ให้เล่นกันมากมาย อยากเล่นอะไร ยิงปลา บาคาร่า แทงบอล
-								จบที่เว็บเดียว การสมัครสมาชิกก็ง่ายสะดวก
-								รวดเร็วด้วยทีมงานที่มีประสบการณ์มากมาย
-								ฝากถอนรวดเร็วทันใจไม่มีขั้นต่ำ ได้เงินไวรวยเร็ว
-								ถือว่าเป็นอีกหนึ่งช่องทางในการหารายได้ง่ายๆ ในช่วงเวลาว่างงาน
-								สมัครได้ที่
+								&nbsp;&nbsp; GtsGold168 เป็นเว็บพนันที่ดีที่สุดในประเทศไทย
+								เป็นเว็บไซต์ คาสิโนครบวงจร
+								<b className="text-neno-titel"> บาคาร่า</b> ไพ่เสือมังกร
+								สล็อต(Slot)<b className="text-neno-titel"> เกมส์ยิงปลา</b>{" "}
+								แทงบอล ลอตเตอรี่ หวยจากค่าย UFA และอื่นๆ
+								รวมค่ายคาสิโนชั้นนำของโลกเข้ามาไว้ให้เล่นกันมากมาย อยากเล่นอะไร
+								ยิงปลา บาคาร่า <b className="text-neno-titel">แทงบอล</b>{" "}
+								จบที่เว็บเดียวการสมัครสมาชิกก็ง่ายสะดวกรวดเร็วด้วยทีมงานที่มีประสบการณ์มากมายฝากถอนรวดเร็วทันใจ
+								<b className="text-neno-titel"> ไม่มีขั้นต่ำ </b>
+								ได้เงินไวรวยเร็วถือว่าเป็นอีกหนึ่งช่องทางในการหารายได้ง่ายๆ
+								ในช่วงเวลาว่างงานสมัครได้ที่
 							</div>
 
 							<span className="badge badge-pill badge-success">
@@ -31,6 +31,7 @@ export default function DetailSheet() {
 								Line: @GtsGold168
 							</span>
 						</div>
+						<br></br>
 					</div>
 				</div>
 			</div>
@@ -39,20 +40,19 @@ export default function DetailSheet() {
 					<div style={{ paddingTop: "5%" }}>
 						<div className="container">
 							<center>
-								<h3 className="text-neno-titel">สิ่งที่ได้รับจาก GtsGold168</h3>
+								<h4 className="text-neno-titel">สิ่งที่ได้รับจาก GtsGold168</h4>
 							</center>
-							&nbsp;&nbsp;ทุกท่านได้รับผลตอบแทนจากการแนะนำเพื่อนให้มาสมัครกับทางเรา
-							0.02% <b className="text-neno-titel f-s-20">GtsGold168</b>
-							จะพาทุกๆท่านพบกับประสบการณ์หาเงินง่ายๆไม่ต้องออกแรงกับ
-							<b className="text-neno-titel f-s-20">คาสิโนออนไลน์</b>
-							จากค่ายชั้นนำหลายค่าย หรือพักผ่อนกับ{" "}
-							<b className="text-neno-titel f-s-20">เกมส์สล๊อต</b>
-							ยิงปลา{" "}
-							<b className="text-neno-titel f-s-20">
-								ที่เพียงแค่เล่นเกมส์ก็ได้เงิน
-							</b>
-							ท่านสามารถเข้ามาเล่นได้ตลอดเวลา การฝากถอนก็ง่ายนิดเดียว
-							เพียงแค่แอดไลน์{" "}
+							<div style={{ textAlign: "justify" }} className="card-img-home">
+								&nbsp;&nbsp;ทุกท่านได้รับผลตอบแทนจากการแนะนำเพื่อนให้มาสมัครกับทางเรา
+								0.02% GtsGold168 จะพาทุกๆท่านพบกับประสบการณ์{" "}
+								<b className="text-neno-titel">หาเงินง่ายๆ </b>
+								ไม่ต้องออกแรงกับ คาสิโนออนไลน์ จากค่ายชั้นนำหลายค่าย
+								หรือพักผ่อนกับ <b className="text-neno-titel">เกมส์สล๊อต </b>
+								ยิงปลาที่เพียงแค่เล่นเกมส์ก็ได้เงิน
+								ท่านสามารถเข้ามาเล่นได้ตลอดเวลา การฝากถอนก็ง่ายนิดเดียว
+								เพียงแค่แอดไลน์
+							</div>
+
 							<span className="badge badge-pill badge-success">
 								{" "}
 								Line: @GtsGold168

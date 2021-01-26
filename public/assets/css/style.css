@@ -5,7 +5,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Sarabun&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Bai+Jamjuree&display=swap");
 * {
-	font-family: "Bai Jamjuree", "Kanit", sans-serif;
+	font-family: "Kanit", "Kanit", sans-serif;
 }
 a:hover,
 a:focus,
@@ -90,14 +90,14 @@ a:active {
 	}
 }
 html {
-	font-family: "Bai Jamjuree", "Kanit", "Open Sans", sans-serif;
+	font-family: "Kanit", "Kanit", "Open Sans", sans-serif;
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100%;
 	overflow-x: hidden;
 }
 
 body {
-	font-family: "Bai Jamjuree", "Kanit", "Open Sans", sans-serif;
+	font-family: "Kanit", "Kanit", "Open Sans", sans-serif;
 	font-size: 18px;
 	margin: 0;
 	color: #a1aed4;
@@ -135,7 +135,7 @@ h4,
 h5,
 h6 {
 	color: #fff;
-	font-family: "Bai Jamjuree", "Kanit", "Ubuntu", sans-serif;
+	font-family: "Kanit", "Kanit", "Ubuntu", sans-serif;
 }
 
 p {
@@ -2437,7 +2437,7 @@ select:focus {
 	font-size: 70px;
 	line-height: 80px;
 	font-weight: 500;
-	font-family: "Bai Jamjuree", "Kanit", "Ubuntu", sans-serif;
+	font-family: "Kanit", "Kanit", "Ubuntu", sans-serif;
 	color: #fff;
 }
 .funfact .single-fun p {
@@ -2534,7 +2534,7 @@ select:focus {
 .single-winer .bottom-area .left {
 	font-size: 28px;
 	color: #f0ad4e;
-	font-family: "Bai Jamjuree", "Kanit", "Ubuntu", sans-serif;
+	font-family: "Kanit", "Kanit", "Ubuntu", sans-serif;
 }
 .single-winer .bottom-area .right {
 	text-align: right;
@@ -3717,7 +3717,7 @@ select:focus {
 .how-it-work .single-work .title {
 	font-size: 28px;
 	line-height: 38px;
-	font-family: "Bai Jamjuree", "Kanit", "Ubuntu", sans-serif;
+	font-family: "Kanit", "Kanit", "Ubuntu", sans-serif;
 	text-transform: uppercase;
 	color: #fff;
 	margin-bottom: 5px;
@@ -6170,9 +6170,9 @@ header .o-contact {
 	}
 }
 
-.nav-custom-gts{
-	font-size: 1.5rem;
-	color: #ffffff;
+.nav-custom-gts {
+	font-size: 5rem;
+	color: #ce0000;
 	font-weight: bold;
 	text-shadow: 3px 3px 3px #bf7f00, -3px -3px 8px #bf7f00;
 }
