@@ -6,42 +6,68 @@ export default function TheHeaderTwo() {
 		<>
 			<Navbar bg="black" expand="lg">
 				<Container>
-					<Navbar.Brand href="#home" id="NavbarBrand">
+					<Navbar.Brand href="#home" id="NavbarBrand" className="brand-view">
 						<img
 							src="assets/images/logoicon1.png"
 							width="100"
 							height="100"
 							alt=""
 							style={{ position: "relative", objectFit: "contain" }}
-							className="brand-view"
+							
+						/>
+					</Navbar.Brand>
+					<Navbar.Brand href="#home" className="menu-plus">
+						<img
+							alt=""
+							src="https://sv1.picz.in.th/images/2021/01/27/lv0hSv.png"
+							className="align-top"
+						/>
+					</Navbar.Brand>
+					<Navbar.Brand href="#home" className="menu-plus">
+						<img
+							alt=""
+							src="https://sv1.picz.in.th/images/2021/01/27/lv0kiE.png"
+							className="align-top"
 						/>
 					</Navbar.Brand>
 					<Navbar.Toggle aria-controls="basic-navbar-nav" id="basic-navbar" />
-					<Navbar.Collapse id="basic-navbar-nav">
+					<Navbar.Collapse id="basic-navbar-nav" className="text-center">
 						<Nav className="ml-auto">
-							<Link className="nav-custom-gts" href="/home">
-								หน้าแรก
-							</Link>
+							<div className="nav-link">
+								<Link href="/home">
+									หน้าแรก
+								</Link>
+							</div>
+							<div className="nav-link">
 
-							<Link className="nav-custom-gts" href="/bacara">
-								บาคาร่า
+								<Link className="nav-custom-gts" href="/bacara">
+									บาคาร่า
 							</Link>
+							</div>
+							<div className="nav-link">
 
-							<Link className="nav-custom-gts" href="/shootfish">
-								ยิงปลา
+								<Link className="nav-custom-gts" href="/shootfish">
+									ยิงปลา
 							</Link>
+							</div>
+							<div className="nav-link">
 
-							<Link className="nav-custom-gts" href="/slot">
-								สล็อต
+								<Link className="nav-custom-gts" href="/slot">
+									สล็อต
 							</Link>
+							</div>
+							<div className="nav-link">
 
-							<Link className="nav-custom-gts" href="/sport">
-								แทงบอล
+								<Link className="nav-custom-gts" href="/sport">
+									แทงบอล
 							</Link>
+							</div>
+							<div className="nav-link">
 
-							<Link className="nav-custom-gts" href="/login">
-								เข้าสู่เกมส์
+								<Link className="nav-custom-gts" href="/login">
+									เข้าสู่เกมส์
 							</Link>
+							</div>
 						</Nav>
 					</Navbar.Collapse>
 				</Container>

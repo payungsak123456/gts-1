@@ -6094,7 +6094,7 @@ i {
 	/* text-shadow: 3px 3px 3px #bf7f00, -3px -3px 8px #bf7f00; */
 }
 .navbar-collapse.collapse.show,
-.navbar-collapse .collapse {
+.collapse {
 	text-align: center;
 }
 .nav-link {
@@ -6115,8 +6115,13 @@ header .o-contact {
 	header .contact-icon {
 		height: 80px;
 	}
-	.brand-view {
+	.brand-view,.brand-view.navbar-brand {
 		display: none;
+	}
+	.menu-plus,.menu-plus .navbar-brand{
+		display: inline-block;
+		width: 40%;
+		margin: auto;
 	}
 }
 
@@ -6138,8 +6143,10 @@ header .o-contact {
 			#000000
 		);
 	}
-	.navbar-light {
-		padding-top: 2rem;
+}
+@media only screen and (min-width: 1024px) {
+	.menu-plus,.menu-plus .navbar-brand{
+		display: none;
 	}
 }
 
@@ -6160,15 +6167,7 @@ header .o-contact {
 .the-popup .modal-dialog .modal-content {
 	background-color: transparent;
 }
-.navbar {
-	padding-top: 10rem;
-}
 
-@media only screen and (min-width: 769px) {
-	.navbar-light {
-		padding-top: 2rem;
-	}
-}
 
 .nav-custom-gts {
 	font-size: 5rem;

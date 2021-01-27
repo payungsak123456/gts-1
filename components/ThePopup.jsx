@@ -10,7 +10,7 @@ export default function ThePopup() {
                 <Modal.Header closeButton>
                 </Modal.Header>
                 <Modal.Body>
-                    <Image src="assets/images/popup.png" className="border border-white rounded" />
+                    <Image src="assets/images/popup/157855.jpg" className="border border-white rounded" />
                 </Modal.Body>
             </Modal>
         </>
