@@ -34,7 +34,7 @@ export default function TheHeader() {
 							</Link>
 						</div>
 				
-					{/* <div className="o-contact" style={{ width: "50%" }}>
+					<div className="o-contact" style={{ width: "50%" }}>
 						<Link href="/register">
 							<div style={{ paddingLeft: "5%", paddingRight: "5%" }}>
 								<a>
@@ -43,14 +43,14 @@ export default function TheHeader() {
 										alt="follower ufadeal"
 										width="100%"
 										// height="32px"
-										src="assets/images/pera2.jpg"
+										src="https://sv1.picz.in.th/images/2021/01/27/lv0hSv.png"
 										// data-ll-status="loaded"
 									/>
 								</a>
 							</div>
 						</Link>
-					</div> */}
-					{/* <div className="o-contact" style={{ width: "50%" }}>
+					</div>
+					<div className="o-contact" style={{ width: "50%" }}>
 						<Link href="https://lin.ee/KE4VK7d">
 							<div style={{ paddingLeft: "5%", paddingRight: "5%" }}>
 								<a>
@@ -59,13 +59,13 @@ export default function TheHeader() {
 										// alt="coin ufadeal"
 										width="100%"
 										// height="32px"
-										src="assets/images/pera1.jpg"
+										src="https://sv1.picz.in.th/images/2021/01/27/lv0kiE.png"
 										// data-ll-status="loaded"
 									/>
 								</a>
 							</div>
 						</Link>
-					</div> */}
+					</div>
 				</div>
 			</header>
 		</>
