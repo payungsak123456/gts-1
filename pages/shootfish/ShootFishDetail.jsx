@@ -25,7 +25,7 @@ export default function ShootFishDetail() {
 							</div>
 						</div>
 						<div className="col-md-12">
-						<iframe width="100%" height="538" src="https://www.youtube.com/embed/E5UZCmfz6pI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						<iframe width="100%" height="538" src="https://www.youtube.com/embed/E5UZCmfz6pI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 						</div>
 					</div>
 				</div>

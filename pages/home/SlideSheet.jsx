@@ -25,25 +25,25 @@ export default function SlideSheet() {
 				<div className="carousel-inner">
 					<div className="carousel-item active">
 						<img
-							src="assets/images/home/pr1.png"
+							src="assets/images/pera1.jpg"
 							className="d-block w-100"
 							alt="..."
 						/>
 					</div>
 					<div className="carousel-item">
 						<img
-							src="assets/images/home/pr2.png"
+							src="assets/images/pera2.jpg"
 							className="d-block w-100"
 							alt="..."
 						/>
 					</div>
-					<div className="carousel-item">
+					{/* <div className="carousel-item">
 						<img
-							src="assets/images/home/pr3.png"
+							src="/assets/images/home/pr3.png"
 							className="d-block w-100"
 							alt="..."
 						/>
-					</div>
+					</div> */}
 				</div>
 				<a
 					className="carousel-control-prev"

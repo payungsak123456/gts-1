@@ -34,7 +34,7 @@ export default function TheHeader() {
 							</Link>
 						</div>
 				
-					<div className="o-contact" style={{ width: "50%" }}>
+					{/* <div className="o-contact" style={{ width: "50%" }}>
 						<Link href="/register">
 							<div style={{ paddingLeft: "5%", paddingRight: "5%" }}>
 								<a>
@@ -49,8 +49,8 @@ export default function TheHeader() {
 								</a>
 							</div>
 						</Link>
-					</div>
-					<div className="o-contact" style={{ width: "50%" }}>
+					</div> */}
+					{/* <div className="o-contact" style={{ width: "50%" }}>
 						<Link href="https://lin.ee/KE4VK7d">
 							<div style={{ paddingLeft: "5%", paddingRight: "5%" }}>
 								<a>
@@ -65,7 +65,7 @@ export default function TheHeader() {
 								</a>
 							</div>
 						</Link>
-					</div>
+					</div> */}
 				</div>
 			</header>
 		</>

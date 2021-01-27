@@ -72,7 +72,7 @@ export default function DetailSheet() {
 							src="https://www.youtube.com/embed/mfqJyKm20Z4"
 							frameBorder="0"
 							allow="autoplay; encrypted-media"
-							allowfullscreen
+							allowFullScreen
 						></iframe>
 					</div>
 				</div>
