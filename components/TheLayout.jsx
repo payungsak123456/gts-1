@@ -18,7 +18,7 @@ const TheLayout = (props) => (
 
       <TheFooter />
     </div>
-    {/* <TheMobileMenu /> */}
+    <TheMobileMenu />
   </>
 );
 

@@ -26,29 +26,29 @@ export default function DetailSheet() {
 								ในช่วงเวลาว่างงานสมัครได้ที่
 							</div>
 
-        <div className="col-md-12  " style={{visibility: 'hidden',position:'absolute'}}>
-          <div style={{ paddingTop: "5%" }}>
-            <div className="container ">
-              <center>
-                <h3
-                  className=" text-neno-titel"
-                >
-                  บาคาร่า รูเล็ต ไพ่เสือมังกร สล็อต(Slot) เกมส์ยิงปลา
-                  แทงบอล
+							<div className="col-md-12  " style={{ visibility: 'hidden', position: 'absolute' }}>
+								<div style={{ paddingTop: "5%" }}>
+									<div className="container ">
+										<center>
+											<h3
+												className=" text-neno-titel"
+											>
+												บาคาร่า รูเล็ต ไพ่เสือมังกร สล็อต(Slot) เกมส์ยิงปลา
+												แทงบอล
 											</h3>
-              </center>
-              <br></br>
+										</center>
+										<br></br>
 										&nbsp;&nbsp;
 										<b className="text-neno-titel f-s-20">
-                GtsGold168
+											GtsGold168
               </b>
 										&nbsp;
 										<b className="text-neno-titel f-s-20">
-              เป็นเว็บพนันที่ดีที่สุดในประเทศไทย
+											เป็นเว็บพนันที่ดีที่สุดในประเทศไทย
               </b>{" "}
 										เป็นเว็บไซต์&nbsp;
 										<b className="text-neno-titel f-s-20">
-                คาสิโนครบวงจร
+											คาสิโนครบวงจร
               </b>{" "}
 										บาคาร่า ไพ่เสือมังกร สล็อต(Slot) <b className="text-neno-titel f-s-20">เกมส์ยิงปลา</b> <b className="text-neno-titel f-s-20">แทงบอล</b>
 										ลอตเตอรี่ หวย จากค่าย UFA และ รวมค่ายคาสิโนชั้นนำของโลก
@@ -58,56 +58,49 @@ export default function DetailSheet() {
 										จบที่เว็บเดียว การสมัครสมาชิกก็ง่ายสะดวก
 										รวดเร็วด้วยทีมงานที่มีประสบการณ์มากมาย
 										<b className="text-neno-titel f-s-20">
-                ฝากถอนรวดเร็วทันใจไม่มีขั้นต่ำ
+											ฝากถอนรวดเร็วทันใจไม่มีขั้นต่ำ
               </b>{" "}
 										ได้เงินไวรวยเร็ว ถือว่าเป็นอีกหนึ่งช่องทางในการหารายได้ง่ายๆ
 										ในช่วงเวลาว่างงาน สมัครได้ที่
 										<span className="badge badge-pill badge-success">
-                {" "}
+											{" "}
 											Line: @GtsGold168
 										</span>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div className="row">
-        <div className="col-md-12">
-          <div style={{ paddingTop: "5%" }}>
-            <div className="container">
-              <center>
-                <h3
-                  className="text-neno-titel"
-                >
-                  สิ่งที่ได้รับจาก GtsGold168
+									</div>
+								</div>
+							</div>
+						</div>
+						<div className="row">
+							<div className="col-md-12">
+								<div style={{ paddingTop: "5%" }}>
+									<div className="container">
+										<center>
+											<h3
+												className="text-neno-titel"
+											>
+												สิ่งที่ได้รับจาก GtsGold168
 											</h3>
-              </center>
+										</center>
 										&nbsp;&nbsp;ทุกท่านได้รับผลตอบแทนจากการแนะนำเพื่อนให้มาสมัครกับทางเรา
 										0.02% <b className="text-neno-titel f-s-20">GtsGold168</b>
-										จะพาทุกๆท่านพบกับประสบการณ์หาเงินง่ายๆไม่ต้องออกแรงกับ
+										จะพาทุกๆท่านพบกับประสบการณ์<b className="text-neno-titel f-s-20">หาเงินง่ายๆ</b>ไม่ต้องออกแรงกับ
 										<b className="text-neno-titel f-s-20">คาสิโนออนไลน์</b>จากค่ายชั้นนำหลายค่าย หรือพักผ่อนกับ <b className="text-neno-titel f-s-20">เกมส์สล๊อต</b>
 										 ยิงปลา{" "}
-              <b className="text-neno-titel f-s-20">
-                ที่เพียงแค่เล่นเกมส์ก็ได้เงิน
+										<b className="text-neno-titel f-s-20">
+											ที่เพียงแค่เล่นเกมส์ก็ได้เงิน
               </b>
 										ท่านสามารถเข้ามาเล่นได้ตลอดเวลา การฝากถอนก็ง่ายนิดเดียว
 										เพียงแค่แอดไลน์{" "}
-              <span className="badge badge-pill badge-success">
-                {" "}
+										<span className="badge badge-pill badge-success">
+											{" "}
 											Line: @GtsGold168
 										</span>
-            </div>
-          </div>
-        </div>
-      </div>
-      <br></br>
-      <br></br>
-      <div className="row">
-
-							<span className="badge badge-pill badge-success">
-								{" "}
-								Line: @GtsGold168
-							</span>
+									</div>
+								</div>
+							</div>
 						</div>
+						<br />
+						<br />
 					</div>
 				</div>
 			</div>
