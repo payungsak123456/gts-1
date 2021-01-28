@@ -7,7 +7,7 @@ export default function TheBillboard() {
 				id="topbar2"
 				className="d-xs-none d-sm-none d-md-none d-lg-block fxx tt_open2"
 			>
-				<Link href="https://www.google.com">
+				{/* <Link href="https://www.google.com">
 					<a className="tt_l mb-5 tt_img_fixed2" target="_blank">
 						<img src="/assets/images/billboard/bank.png" />
 					</a>
@@ -22,7 +22,7 @@ export default function TheBillboard() {
 					<a className="tt_l mb-5 tt_img_fixed2" target="_blank">
 						<img src="assets/images/billboard/register-line.png" />
 					</a>
-				</Link>
+				</Link> */}
 			</div>
             <div id="topbar" className="fxx">
                 
