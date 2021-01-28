@@ -6,7 +6,7 @@ export default function TheFooter() {
 		<>
 			<footer className="footer">
 				<div className="container">
-					<div className="row text-light pl-5">
+					<div className="row text-light pl-lg-5 pl-md-5">
 						<div className="col-12">
 							<img
 								src="assets/images/home/LogoText.png"
@@ -123,7 +123,7 @@ export default function TheFooter() {
 								</div>
 								<div className="col-md-3 col-lg-3 text-center">
 									<div className="container mt-md-0 mt-xs-5">
-										<img src="https://ufadeal.com/wp-content/themes/deal-theme/assets/ic-bank-logo.png"></img>
+										<img src="assets/images/footer/bank.png"></img>
 									</div>
 								</div>
 							</div>
