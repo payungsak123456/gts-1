@@ -22,7 +22,7 @@ export default function TheHeaderTwo() {
 
 			<Navbar bg="black" expand="lg">
 				<Container>
-					<Navbar.Brand href="#home" id="NavbarBrand" className="brand-view d-md-none d-lg-inline">
+					<Navbar.Brand href="#home" id="NavbarBrand" className="brand-view d-none d-lg-inline">
 						<img
 							src="assets/images/logoicon1.png"
 							width="100"
