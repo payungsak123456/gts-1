@@ -1,4 +1,3 @@
-
 export default function SlideSheet() {
 	return (
 		<>
@@ -13,14 +12,8 @@ export default function SlideSheet() {
 						data-slide-to="0"
 						className="active"
 					></li>
-					<li
-						data-target="#carouselExampleIndicators"
-						data-slide-to="1"
-					></li>
-					<li
-						data-target="#carouselExampleIndicators"
-						data-slide-to="2"
-					></li>
+					<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+					<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
 				</ol>
 				<div className="carousel-inner">
 					<div className="carousel-item active">
@@ -37,13 +30,13 @@ export default function SlideSheet() {
 							alt="..."
 						/>
 					</div>
-					{/* <div className="carousel-item">
+					<div className="carousel-item">
 						<img
-							src="/assets/images/home/pr3.png"
+							src="/assets/images/home/pera4.png"
 							className="d-block w-100"
 							alt="..."
 						/>
-					</div> */}
+					</div>
 				</div>
 				<a
 					className="carousel-control-prev"
@@ -70,7 +63,6 @@ export default function SlideSheet() {
 					<span className="sr-only">Next</span>
 				</a>
 			</div>
-
 		</>
 	);
 }

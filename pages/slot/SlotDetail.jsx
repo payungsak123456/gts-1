@@ -7,18 +7,30 @@ export default function SlotDetail() {
 						<div style={{ paddingTop: "5%" }}>
 							<div className="container ">
 								<center>
-									<h1 className=" text-neno-titel">
-										สล๊อต
-									</h1>
+									<h1 className=" text-neno-titel">สล๊อต</h1>
 								</center>
 								<br></br>
-								<p className="f-sarabun" style={{ color: "beige" }}>
+								<p
+									className="f-sarabun"
+									style={{ color: "beige", textAlign: "justify" }}
+								>
 									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-									<strong className="text-neno-titel f-s-20">เกมส์สล๊อต</strong> 
-									ถือเป็นเกมส์ที่กำลังมาแรงเลยก็ว่าได้ในตอนนี้ท่านสามารถเล่นได้ขั้นต่ำเพียงแค่สปินละ 0.9 บาท เท่านั้นเองสำหรับคนที่ว่างๆ หรือชอบเกมส์ที่ให้ลุ้นและความไหวพริบในการกดสล๊อต ก็เข้ามาเลนเพลินๆได้เลยเรามี สล๊อตจากให้เล่นกว่า 100 เกมส์จากหลายค่ายชั้นนำทั่วโลกและมีการแจกโบนัสแบบรัวๆ แตกแล้วแตกอีก 
-									<strong className="text-neno-titel f-s-20">กดสล๊อตเพลินได้ตังใช้ง่ายๆ</strong> 
-									<strong className="text-neno-titel f-s-20">ต้องลองถึงจะรู้ว่ารวยเร็วเป็นอย่างไร สมัครเลยที่</strong>{" "}
-									<strong className="f-s-20 badge badge-pill badge-success"> {" "} Line: @GtsGold168{" "}</strong>
+									<strong className="text-neno-titel f-s-20">เกมส์สล๊อต</strong>
+									ถือเป็นเกมส์ที่กำลังมาแรงมากเลยก็ว่าได้ในตอนนี้ท่านสามารถเล่นได้ขั้นต่ำเพียงแค่สปินละ
+									0.9 บาท เท่านั้นเองสำหรับคนที่ว่างๆ หรือชอบเกมส์ที่ให้ลุ้น
+									และความไหวพริบในการกดสล๊อต ก็เข้ามาเล่นกันเพลินๆได้เลยเรามี
+									สล๊อตจากให้เล่นกว่า 100 เกมส์จากหลายค่ายชั้นนำทั่วโลก
+									และมีการแจกโบนัสแบบรัวๆ แตกแล้วแตกอีก
+									<strong className="text-neno-titel f-s-20">
+										กดสล๊อตเพลินได้ตังใช้ง่ายๆ
+									</strong>
+									<strong className="text-neno-titel f-s-20">
+										ต้องลองถึงจะรู้ว่ารวยเร็วเป็นอย่างไรสมัครเลยที่
+									</strong>{" "}
+									<strong className="f-s-20 badge badge-pill badge-success">
+										{" "}
+										Line: @GtsGold168{" "}
+									</strong>
 								</p>
 							</div>
 						</div>
