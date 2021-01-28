@@ -12,7 +12,7 @@ export default function TheMobileMenu() {
 								alt="login ufadeal"
 								width="24px"
 								height="24px"
-								src="https://ufadeal.com/wp-content/themes/deal-theme/assets/login.png"
+								src="https://sv1.picz.in.th/images/2021/01/29/lJmVPS.png"
 								data-ll-status="loaded"
 							/>
 							<noscript>
@@ -21,7 +21,7 @@ export default function TheMobileMenu() {
 									alt="login ufadeal"
 									width="24px"
 									height="24px"
-									src="https://ufadeal.com/wp-content/themes/deal-theme/assets/login.png"
+									src="https://sv1.picz.in.th/images/2021/01/29/lJmVPS.png"
 								/>
 							</noscript>
 							<span className="text-contact">สมัครอัตโนมัติ</span>
@@ -36,7 +36,8 @@ export default function TheMobileMenu() {
 								alt="login ufadeal"
 								width="24px"
 								height="24px"
-								src="https://ufadeal.com/wp-content/themes/deal-theme/assets/login.png"
+								src="
+								https://sv1.picz.in.th/images/2021/01/29/lJmPke.png"
 								data-ll-status="loaded"
 							/>
 							<noscript>
@@ -45,7 +46,8 @@ export default function TheMobileMenu() {
 									alt="login ufadeal"
 									width="24px"
 									height="24px"
-									src="https://ufadeal.com/wp-content/themes/deal-theme/assets/login.png"
+									src="
+									https://sv1.picz.in.th/images/2021/01/29/lJmPke.png"
 								/>
 							</noscript>
 							<span className="text-contact">เข้าสู่ระบบ</span>
@@ -60,7 +62,7 @@ export default function TheMobileMenu() {
 								alt="follower ufadeal"
 								width="24px"
 								height="24px"
-								src="https://ufadeal.com/wp-content/themes/deal-theme/assets/follower.png"
+								src="https://sv1.picz.in.th/images/2021/01/29/lJmoAP.png"
 								data-ll-status="loaded"
 							/>
 							<noscript>
@@ -69,7 +71,7 @@ export default function TheMobileMenu() {
 									alt="follower ufadeal"
 									width="24px"
 									height="24px"
-									src="https://ufadeal.com/wp-content/themes/deal-theme/assets/follower.png"
+									src="https://sv1.picz.in.th/images/2021/01/29/lJmoAP.png"
 								/>
 							</noscript>
 							<span className="text-contact contact-info">สมัครทาง line</span>
@@ -84,7 +86,7 @@ export default function TheMobileMenu() {
 								alt="coin ufadeal"
 								width="24px"
 								height="24px"
-								src="https://ufadeal.com/wp-content/themes/deal-theme/assets/coin.png"
+								src="https://sv1.picz.in.th/images/2021/01/29/lJmsOl.png"
 								data-ll-status="loaded"
 							/>
 							<noscript>
@@ -93,7 +95,7 @@ export default function TheMobileMenu() {
 									alt="coin ufadeal"
 									width="24px"
 									height="24px"
-									src="https://ufadeal.com/wp-content/themes/deal-theme/assets/coin.png"
+									src="https://sv1.picz.in.th/images/2021/01/29/lJmsOl.png"
 								/>
 							</noscript>
 							<span className="text-contact contact-info">ฝากถอน</span>
@@ -108,7 +110,7 @@ export default function TheMobileMenu() {
 								alt="headphone ufadeal"
 								width="24px"
 								height="24px"
-								src="https://ufadeal.com/wp-content/themes/deal-theme/assets/headphone.png"
+								src="https://sv1.picz.in.th/images/2021/01/29/lJmDet.png"
 								data-ll-status="loaded"
 							/>
 							<noscript>
@@ -117,7 +119,7 @@ export default function TheMobileMenu() {
 									alt="headphone ufadeal"
 									width="24px"
 									height="24px"
-									src="https://ufadeal.com/wp-content/themes/deal-theme/assets/headphone.png"
+									src="https://sv1.picz.in.th/images/2021/01/29/lJmDet.png"
 								/>
 							</noscript>
 							<span className="text-contact contact-info">
