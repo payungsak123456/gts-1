@@ -5,12 +5,12 @@ export default function NextSeoPage() {
     return (
         <>
             <NextSeo
-                title="GTS GOLD 168 - LOGIN"
+                title="GTS GOLD 168 - REGISTER"
                 description="GTS GOLD 168 SPORT BETTING AND CASINO ONLINE"
-                canonical="http://gts.chungserver.com/login"
+                canonical="http://gts.chungserver.com/register"
                 openGraph={{
-                    url: "http://gts.chungserver.com/login",
-                    title: "GTS GOLD 168 - LOGIN",
+                    url: "http://gts.chungserver.com/register",
+                    title: "GTS GOLD 168 - REGISTER",
                     description: "GTS GOLD 168 SPORT BETTING AND CASINO ONLINE",
                     images: [
                         {
@@ -39,7 +39,7 @@ export default function NextSeoPage() {
                     name="viewport"
                     content="width=device-width, initial-scale=1.0"
                 />
-                <title> GTS GOLD 168 - LOGIN </title>
+                <title> GTS GOLD 168 - REGISTER </title>
                 <link
                     rel="shortcut icon"
                     href="assets/images/favicon.ico"
