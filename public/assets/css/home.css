@@ -73,6 +73,9 @@
   background-position: center center;
   background-image: url("./../images/home/bgw.jpg");
   background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size:cover;
 }
 .tt_tx_line {
   float: left;
