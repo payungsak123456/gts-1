@@ -4,6 +4,22 @@ import Link from "next/link";
 export default function TheHeaderTwo() {
 	return (
 		<>
+			<div className="mx-5 d-lg-none d-md-none" >
+				<Link href="/login">
+					<a>
+						<img
+							className="contact-icon lazyloaded "
+							alt="login ufadeal"
+							width="100%"
+							height="60%"
+							// height="32px"
+							src="assets/images/logoเต็ม.png"
+							// data-ll-status="loaded"
+						/>
+					</a>
+				</Link>
+			</div>
+
 			<Navbar bg="black" expand="lg">
 				<Container>
 					<Navbar.Brand href="#home" id="NavbarBrand" className="brand-view">
@@ -13,20 +29,19 @@ export default function TheHeaderTwo() {
 							height="100"
 							alt=""
 							style={{ position: "relative", objectFit: "contain" }}
-							
 						/>
 					</Navbar.Brand>
 					<Navbar.Brand href="#home" className="menu-plus">
 						<img
 							alt=""
-							src="https://sv1.picz.in.th/images/2021/01/27/lv0hSv.png"
+							src="https://sv1.picz.in.th/images/2021/01/28/lGrKd8.png"
 							className="align-top"
 						/>
 					</Navbar.Brand>
 					<Navbar.Brand href="#home" className="menu-plus">
 						<img
 							alt=""
-							src="https://sv1.picz.in.th/images/2021/01/27/lv0kiE.png"
+							src="https://sv1.picz.in.th/images/2021/01/28/lGrZZR.png"
 							className="align-top"
 						/>
 					</Navbar.Brand>
@@ -34,39 +49,32 @@ export default function TheHeaderTwo() {
 					<Navbar.Collapse id="basic-navbar-nav" className="text-center">
 						<Nav className="ml-auto">
 							<div className="nav-link">
-								<Link href="/home">
-									หน้าแรก
+								<Link href="/home">หน้าแรก</Link>
+							</div>
+							<div className="nav-link">
+								<Link className="nav-custom-gts" href="/bacara">
+									บาคาร่า
 								</Link>
 							</div>
 							<div className="nav-link">
-
-								<Link className="nav-custom-gts" href="/bacara">
-									บาคาร่า
-							</Link>
-							</div>
-							<div className="nav-link">
-
 								<Link className="nav-custom-gts" href="/shootfish">
 									ยิงปลา
-							</Link>
+								</Link>
 							</div>
 							<div className="nav-link">
-
 								<Link className="nav-custom-gts" href="/slot">
 									สล็อต
-							</Link>
+								</Link>
 							</div>
 							<div className="nav-link">
-
 								<Link className="nav-custom-gts" href="/sport">
 									แทงบอล
-							</Link>
+								</Link>
 							</div>
 							<div className="nav-link">
-
 								<Link className="nav-custom-gts" href="/login">
 									เข้าสู่เกมส์
-							</Link>
+								</Link>
 							</div>
 						</Nav>
 					</Navbar.Collapse>

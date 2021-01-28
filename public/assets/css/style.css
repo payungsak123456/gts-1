@@ -1022,7 +1022,6 @@ select:focus {
 	transform: translate(-50%, -50%);
 }
 
-
 .header.nav-fixed {
 	background: #0a0a0a;
 	-webkit-box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.15);
@@ -6051,9 +6050,9 @@ select:focus {
 		max-width: 970px;
 	}
 }
-.f-sarabun,
+.f-Kanit,
 ul .li.f-sarabun {
-	font-family: "Sarabun", sans-serif;
+	font-family: "Kanit", sans-serif;
 }
 .text-neno-titel {
 	-webkit-text-fill-color: #ffe16a;
@@ -6105,10 +6104,12 @@ header .o-contact {
 	header .contact-icon {
 		height: 80px;
 	}
-	.brand-view,.brand-view.navbar-brand {
+	.brand-view,
+	.brand-view.navbar-brand {
 		display: none;
 	}
-	.menu-plus,.menu-plus .navbar-brand{
+	.menu-plus,
+	.menu-plus .navbar-brand {
 		display: inline-block;
 		width: 40%;
 		margin: auto;
@@ -6135,7 +6136,8 @@ header .o-contact {
 	}
 }
 @media only screen and (min-width: 1024px) {
-	.menu-plus,.menu-plus .navbar-brand{
+	.menu-plus,
+	.menu-plus .navbar-brand {
 		display: none;
 	}
 }
@@ -6157,7 +6159,6 @@ header .o-contact {
 .the-popup .modal-dialog .modal-content {
 	background-color: transparent;
 }
-
 
 .nav-custom-gts {
 	font-size: 5rem;
