@@ -15,6 +15,7 @@ export default function MyApp({ Component, pageProps }) {
     /* Here we call NextSeo and pass our default configuration to it  */
     <>
       <Head>
+        <meta name="google-site-verification" content="8eF71_hAL-3YUcRK_sa7JpaKxL6c8Rc_50e0coblnjc" />
         {/* <!-- bootstrap --> */}
         <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
         {/* <!-- Plugin css --> */}
