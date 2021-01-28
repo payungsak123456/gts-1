@@ -26,7 +26,7 @@ export default function DetailSheet() {
 								ในช่วงเวลาว่างงานสมัครได้ที่
 							</div>
 
-        <div className="col-md-12  " style={{visibility: 'hidden'}}>
+        <div className="col-md-12  " style={{visibility: 'hidden',position:'absolute'}}>
           <div style={{ paddingTop: "5%" }}>
             <div className="container ">
               <center>
