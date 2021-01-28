@@ -25,11 +25,11 @@ export default function TheFooter() {
 									<h3>
 										<strong className="text-neno-titel">เกี่ยวกับเรา</strong>
 									</h3>
-									<p className=" small" style={{ color: "beige" }}>
+									<p  style={{ color: "beige" }}>
 										GTS168.COM Partner of GTS168 เว็บพนันออนไลน์ แทงบอลออนไลน์
 										คาสิโนออนไลน์ ครบครัน สามารถฝากถอนง่ายรวดเร็ว{" "}
 									</p>
-									<p className="small " style={{ color: "beige" }}>
+									<p  style={{ color: "beige" }}>
 										GTSCASINO GTSSLOT SA Gaming Joker Gaming REDTIGER PGSLOT
 										King Maker{" "}
 									</p>

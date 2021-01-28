@@ -31,11 +31,11 @@
 .footer {
   background: rgb(0, 0, 0);
   background: linear-gradient(
-    0deg,
+    122deg,
     rgba(0, 0, 0, 1) 0%,
     rgba(104, 90, 60, 1) 42%,
-    rgba(236, 191, 95, 1) 75%,
-    rgba(253, 187, 45, 1) 91%,
+    rgb(196 172 121) 75%,
+    rgb(73 50 0) 91%,
     rgba(6, 5, 2, 1) 100%
   );
 }

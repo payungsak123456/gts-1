@@ -1022,17 +1022,7 @@ select:focus {
 	transform: translate(-50%, -50%);
 }
 
-/* Popup Video CSS */
-/* Header Area Start */
-.header {
-	/* position: fixed;
-	top: 0;
-	left: 0;
-	width: 100%;
-	z-index: 1000; */
-	/* Top Header Area Start */
-	/* Main Menu Area Start */
-}
+
 .header.nav-fixed {
 	background: #0a0a0a;
 	-webkit-box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.15);
@@ -6103,7 +6093,7 @@ i {
 }
 
 .shadow-f {
-	text-shadow: 3px 3px 3px #bf7f00, -3px -3px 8px #bf7f00, 1px 1px 20px #000000;
+	text-shadow: 3px 3px 3px #000000, 2px 1px 20px #000000, 1px 1px 20px #000000;
 }
 header .contact-icon {
 	height: 100px;
