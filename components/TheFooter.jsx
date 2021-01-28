@@ -123,7 +123,7 @@ export default function TheFooter() {
 								</div>
 								<div className="col-md-3 col-lg-3 text-center">
 									<div className="container mt-md-0 mt-xs-5">
-										<img src="https://ufadeal.com/wp-content/themes/deal-theme/assets/ic-bank-logo.png"></img>
+										<img src="assets/images/footer/bank.png"></img>
 									</div>
 								</div>
 							</div>
