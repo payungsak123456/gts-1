@@ -5,6 +5,30 @@ export default function TheMobileMenu() {
 		<>
 			<div className="m-contact">
 				<div className="o-contact">
+					<Link href="/register">
+						<a>
+							<img
+								className="contact-icon lazyloaded"
+								alt="login ufadeal"
+								width="24px"
+								height="24px"
+								src="https://ufadeal.com/wp-content/themes/deal-theme/assets/login.png"
+								data-ll-status="loaded"
+							/>
+							<noscript>
+								<img
+									className="contact-icon"
+									alt="login ufadeal"
+									width="24px"
+									height="24px"
+									src="https://ufadeal.com/wp-content/themes/deal-theme/assets/login.png"
+								/>
+							</noscript>
+							<span className="text-contact">สมัครอัตโนมัติ</span>
+						</a>
+					</Link>
+				</div>
+				<div className="o-contact">
 					<Link href="/login">
 						<a>
 							<img
