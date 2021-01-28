@@ -6044,7 +6044,10 @@ select:focus {
 }
 
 /* login modal Area End */
-
+.menu-plus.navbar-brand {
+	width: 40%;
+	margin: auto;
+}
 @media (min-width: 1200px) {
 	.container {
 		max-width: 970px;
@@ -6100,22 +6103,17 @@ header .contact-icon {
 header .o-contact {
 	padding: 0;
 }
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 992px) {
 	header .contact-icon {
 		height: 80px;
 	}
-	.brand-view,
-	.brand-view.navbar-brand {
-		display: none;
-	}
-	.menu-plus,
-	.menu-plus .navbar-brand {
-		display: inline-block;
-		width: 40%;
-		margin: auto;
-	}
 }
 
+@media only screen and (min-width: 992px) {
+	.menu-plus,.menu-logo{
+		display: none;
+	}
+}
 @media only screen and (min-width: 1024px) {
 	.bg-black {
 		background-image: linear-gradient(
@@ -6133,10 +6131,6 @@ header .o-contact {
 			#070707,
 			#000000
 		);
-	}
-	.menu-plus,.menu-logo,
-	.menu-plus .navbar-brand {
-		display: none;
 	}
 }
 

@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function TheHeaderTwo() {
 	return (
 		<>
-			<div className="mx-5 pt-2 menu-logo" >
+			<div className="mx-5 pt-2 menu-logo d-lg-none" >
 				<Link href="/login">
 					<a>
 						<img
@@ -22,7 +22,7 @@ export default function TheHeaderTwo() {
 
 			<Navbar bg="black" expand="lg">
 				<Container>
-					<Navbar.Brand href="#home" id="NavbarBrand" className="brand-view">
+					<Navbar.Brand href="#home" id="NavbarBrand" className="brand-view d-md-none d-lg-inline">
 						<img
 							src="assets/images/logoicon1.png"
 							width="100"
@@ -31,14 +31,14 @@ export default function TheHeaderTwo() {
 							style={{ position: "relative", objectFit: "contain" }}
 						/>
 					</Navbar.Brand>
-					<Navbar.Brand href="#home" className="menu-plus">
+					<Navbar.Brand href="#home" className="menu-plus d-lg-none">
 						<img
 							alt=""
 							src="https://sv1.picz.in.th/images/2021/01/28/lGrKd8.png"
 							className="align-top"
 						/>
 					</Navbar.Brand>
-					<Navbar.Brand href="#home" className="menu-plus">
+					<Navbar.Brand href="#home" className="menu-plus d-lg-none">
 						<img
 							alt=""
 							src="https://sv1.picz.in.th/images/2021/01/28/lGrZZR.png"
