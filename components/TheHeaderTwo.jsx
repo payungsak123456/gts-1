@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function TheHeaderTwo() {
 	return (
 		<>
-			<div className="mx-5 d-lg-none d-md-none" >
+			<div className="mx-5 pt-2 menu-logo" >
 				<Link href="/login">
 					<a>
 						<img

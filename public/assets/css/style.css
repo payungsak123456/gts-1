@@ -6116,7 +6116,7 @@ header .o-contact {
 	}
 }
 
-@media only screen and (min-width: 767px) {
+@media only screen and (min-width: 1024px) {
 	.bg-black {
 		background-image: linear-gradient(
 			to bottom,
@@ -6134,9 +6134,7 @@ header .o-contact {
 			#000000
 		);
 	}
-}
-@media only screen and (min-width: 1024px) {
-	.menu-plus,
+	.menu-plus,.menu-logo,
 	.menu-plus .navbar-brand {
 		display: none;
 	}
