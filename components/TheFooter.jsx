@@ -6,7 +6,7 @@ export default function TheFooter() {
 		<>
 			<footer className="footer">
 				<div className="container">
-					<div className="row text-light pl-5">
+					<div className="row text-light pl-lg-5 pl-md-5">
 						<div className="col-12">
 							<img
 								src="assets/images/home/LogoText.png"
