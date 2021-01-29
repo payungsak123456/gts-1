@@ -112,7 +112,7 @@ export default function DetailSheet() {
 					<iframe 
 					width="560" 
 					height="315" 
-					src="https://www.youtube.com/embed/P0aengDhiM4" 
+					src="https://www.youtube.com/embed/e5ypJPq1gsE" 
 					frameborder="0" 
 					allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 					allowfullscreen></iframe>
