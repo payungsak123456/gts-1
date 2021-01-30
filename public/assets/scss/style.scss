@@ -60,28 +60,31 @@
 @import "main/global";
 
 // Sass Sections
-@import "sections/_header";
-@import "sections/_footer";
+// @import "sections/_header";
+// @import "sections/_footer";
 
 // Sass page
-@import "pages/_home-page";
-@import "pages/_index2";
-@import "pages/_about";
-@import "pages/_play";
-@import "pages/_lottery";
-@import "pages/_cart";
-@import "pages/_tournaments";
-@import "pages/_bonus";
-@import "pages/_awards";
-@import "pages/_how-it-work";
-@import "pages/_affiliate";
-@import "pages/_trams-condition";
-@import "pages/_contact";
-@import "pages/_fourzero";
-@import "pages/_faq";
-@import "pages/_log-sign";
-@import "header.scss";
-
+// @import "pages/_home-page";
+// @import "pages/_index2";
+// @import "pages/_about";
+// @import "pages/_play";
+// @import "pages/_lottery";
+// @import "pages/_cart";
+// @import "pages/_tournaments";
+// @import "pages/_bonus";
+// @import "pages/_awards";
+// @import "pages/_how-it-work";
+// @import "pages/_affiliate";
+// @import "pages/_trams-condition";
+// @import "pages/_contact";
+// @import "pages/_fourzero";
+// @import "pages/_faq";
+// @import "pages/_log-sign";
+// @import "header.scss";
+.box-game {
+	display: flex;
+	flex-wrap: wrap;
+}
 
 
 

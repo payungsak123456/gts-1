@@ -21,6 +21,18 @@ a:active {
 	-moz-background-image:unset;
 	-o-background-image:unset;
 }
+.o-contact {
+	width: 20%;
+	border-left: 1px solid #333;
+	float: left;
+	display: block;
+	text-align: center;
+	padding: 5px 0;
+}
+.box-game {
+	display: flex;
+	flex-wrap: wrap;
+}
 @media only screen and (min-width: 1100px) {
 	.m-contact {
 		display: block;
@@ -32,14 +44,7 @@ a:active {
 		background: #151515;
 	}
 
-	.o-contact {
-		width: 20%;
-		border-left: 1px solid #333;
-		float: left;
-		display: block;
-		text-align: center;
-		padding: 5px 0;
-	}
+
 
 	.text-contact {
 		display: inline;
@@ -69,14 +74,7 @@ a:active {
 		background: #151515;
 	}
 
-	.o-contact {
-		width: 20%;
-		border-left: 1px solid #333;
-		float: left;
-		display: block;
-		text-align: center;
-		padding: 5px 0;
-	}
+
 
 	.text-contact {
 		display: inline;
