@@ -7,9 +7,9 @@ export default function NextSeoPage() {
             <NextSeo
                 title="GTS GOLD 168 - SHOOT FIST"
                 description="GTS GOLD 168 SPORT BETTING AND CASINO ONLINE"
-                canonical="http://gts.chungserver.com/shootfish"
+                canonical="https://gtsgold168.com/shootfish"
                 openGraph={{
-                    url: "http://gts.chungserver.com/shootfish",
+                    url: "https://gtsgold168.com/shootfish",
                     title: "GTS GOLD 168 - SHOOT FIST",
                     description: "GTS GOLD 168 SPORT BETTING AND CASINO ONLINE",
                     images: [

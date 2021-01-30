@@ -7,26 +7,34 @@ export default function NextSeoPage() {
       <NextSeo
         title="GTS GOLD 168 - BACCARAT"
         description="GTS GOLD 168 SPORT BETTING AND CASINO ONLINE"
-        canonical="http://gts.chungserver.com/bacara"
+        canonical="https://gtsgold168.com/bacara"
         openGraph={{
-          url: "http://gts.chungserver.com/bacara",
+          url: "https://gtsgold168.com/bacara",
           title: "GTS GOLD 168 - BACCARAT",
           description: "GTS GOLD 168 SPORT BETTING AND CASINO ONLINE",
           images: [
             {
-              url: "https://image.freepik.com/free-vector/casino-poker-card-design_91128-228.jpg",
+              url:
+                "https://image.freepik.com/free-vector/casino-poker-card-design_91128-228.jpg",
               width: 800,
               height: 600,
               alt: "Og Image Alt",
             },
             {
-              url: "https://media.istockphoto.com/photos/casino-winner-and-loser-picture-id471883911?k=6&m=471883911&s=170667a&w=0&h=nDfoI2eyhsTeb_GPfWyHhFmyNKnBrb5xeixSdsqG7GA=",
+              url:
+                "https://media.istockphoto.com/photos/casino-winner-and-loser-picture-id471883911?k=6&m=471883911&s=170667a&w=0&h=nDfoI2eyhsTeb_GPfWyHhFmyNKnBrb5xeixSdsqG7GA=",
               width: 900,
               height: 800,
               alt: "Og Image Alt Second",
             },
-            { url: "https://graphicriver.img.customer.envatousercontent.com/files/313208802/preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=598e5b417990648e53ce27ea9568258f" },
-            { url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbPhr_5idVJdh_H8mChq1c8mJw6wnvoaUQ_A&usqp=CAU" },
+            {
+              url:
+                "https://graphicriver.img.customer.envatousercontent.com/files/313208802/preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=598e5b417990648e53ce27ea9568258f",
+            },
+            {
+              url:
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbPhr_5idVJdh_H8mChq1c8mJw6wnvoaUQ_A&usqp=CAU",
+            },
           ],
         }}
       />
