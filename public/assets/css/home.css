@@ -208,11 +208,11 @@ a .card-img-home:hover {
   font-weight: bold;
   text-shadow: 3px 3px 3px #bf7f00, -3px -3px 8px #bf7f00;
 }
-/* .boder-game {
+.boder-game {
   border-bottom: #e2c700 3px solid;
   -webkit-box-shadow: -1px -1px 15px 20px #ffd600;
   box-shadow: -1px -1px 15px 20px #ffd600;
-} */
+}
 
 .navbar-light .navbar-nav .nav-link {
   font-size: 1.5rem;
