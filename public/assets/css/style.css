@@ -15,11 +15,11 @@ a:active {
 .body {
 	color: beige;
 }
-.bg-black{
-	background-image:unset;
-	-webkit-background-image:unset;
-	-moz-background-image:unset;
-	-o-background-image:unset;
+.bg-black {
+	background-image: unset;
+	-webkit-background-image: unset;
+	-moz-background-image: unset;
+	-o-background-image: unset;
 }
 .o-contact {
 	width: 20%;
@@ -33,6 +33,37 @@ a:active {
 	display: flex;
 	flex-wrap: wrap;
 }
+.list-game {
+	text-align: center;
+	outline: -webkit-focus-ring-color auto 1px;
+	transition: 0.4s;
+	background: linear-gradient(
+		180deg,
+		rgba(255, 180, 41, 1) 0%,
+		rgba(255, 211, 130, 1) 22%,
+		rgba(85, 78, 48, 1) 72%,
+		rgba(0, 0, 0, 1) 100%
+	);
+	margin: 3px;
+}
+.list-game img {
+	width: 150px;
+	height: 100px;
+	object-fit: cover;
+}
+.list-game:hover {
+	transform: scale(0.9, 0.9);
+	box-shadow: 5px 5px 30px 15px rgba(0, 0, 0, 0.25), -5px -5px 30px 15px rgba(0, 0, 0, 0.22);
+}
+@media only screen and (max-width: 534px) {
+	.list-game img {
+		width: 120px;
+		height: 80px;
+	}
+	.list-game p{
+		font-size: 16px;
+	}
+}
 @media only screen and (min-width: 1100px) {
 	.m-contact {
 		display: block;
@@ -43,8 +74,6 @@ a:active {
 		bottom: 0;
 		background: #151515;
 	}
-
-
 
 	.text-contact {
 		display: inline;
@@ -73,8 +102,6 @@ a:active {
 		bottom: 0;
 		background: #151515;
 	}
-
-
 
 	.text-contact {
 		display: inline;
