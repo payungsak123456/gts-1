@@ -128,10 +128,6 @@
   height: 120px;
   margin-bottom: 5px;
 }
-.home a {
-  width: 100%;
-  height: 100%;
-}
 .card-image,
 .card-image img {
   width: 100%;
@@ -228,6 +224,12 @@ a .card-img-home:hover {
   .home .card-home {
     width: 120px;
     height: 80px;
+  }
+}
+@media all and (max-width: 320px) {
+  .home .card-home {
+    width: 105px;
+    height: 70px;
   }
 }
 .header .mainmenu-area .navbar #main_menu .navbar-nav .nav-item .nav-link {
