@@ -12,7 +12,7 @@ export default function DetailSheet() {
                 <div className="row mx-md-5 mx-lg-5">
                     <div className="col-lg-6">
                         <label for="input-username" className="pr-2">ไอดี : </label><br />
-                        <input type="password" className="input-field" id="input-username" placeholder="username" />
+                        <input type="text" className="input-field" id="input-username" placeholder="username" />
                     </div>
                     <div className="col-lg-6">
                     </div>
