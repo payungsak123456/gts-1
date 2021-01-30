@@ -60,7 +60,7 @@ a:active {
 		width: 120px;
 		height: 80px;
 	}
-	.list-game p{
+	.box-game p{
 		font-size: 16px;
 	}
 }
@@ -69,16 +69,16 @@ a:active {
 		width: 100px;
 		height: 70px;
 	}
-	.list-game p{
+	.box-game p{
 		font-size: 14px;
 	}
 }
 @media only screen and (max-width: 378px) {
-	.list-game img {
+	.box-game img {
 		width: 96px;
 		height: 60px;
 	}
-	.list-game p{
+	.box-game p{
 		font-size: 12px;
 	}
 }
@@ -87,7 +87,7 @@ a:active {
 		width: 75px;
 		height: 50px;
 	}
-	.list-game p{
+	.box-game p{
 		font-size: 10px;
 	}
 }

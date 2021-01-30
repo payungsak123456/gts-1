@@ -8,15 +8,6 @@ export default function GameSheet() {
 					<h3 className="text-neno-titel">เว็บคาสิโน จากค่ายชั้นนำ</h3>
 				</div>
 				<div className="box-game">
-					{/* <div className="list-game">
-						<Link href="/login">
-							<a>
-								<img src="https://sv1.picz.in.th/images/2021/01/25/lHEJeb.png" alt="Virtual,Sports,Virtual+Sports,แทงบอลออนไลน์" />
-								<p className="m-0" style={{ color: "beige" }}>แทงบอลออนไลน์</p>
-							</a>
-						</Link>
-</div>
-					</div> */}
 					<div className="m-auto text-center">
 						<div className="list-game">
 							<Link href="/login">
