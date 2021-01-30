@@ -55,7 +55,7 @@ export default function TheMobileMenu() {
 					</Link>
 				</div>
 				<div className="o-contact">
-					<Link href="https://lin.ee/KE4VK7d">
+					<Link href="https://lin.ee/SGc236G">
 						<a>
 							<img
 								className="contact-icon lazyloaded"
@@ -79,7 +79,7 @@ export default function TheMobileMenu() {
 					</Link>
 				</div>
 				<div className="o-contact">
-					<Link href="https://lin.ee/KE4VK7d">
+					<Link href="https://lin.ee/SGc236G">
 						<a>
 							<img
 								className="contact-icon lazyloaded"
@@ -103,7 +103,7 @@ export default function TheMobileMenu() {
 					</Link>
 				</div>
 				<div className="o-contact">
-					<Link href="https://lin.ee/KE4VK7d" target="_blank">
+					<Link href="https://lin.ee/SGc236G" target="_blank">
 						<a>
 							<img
 								className="contact-icon lazyloaded"
