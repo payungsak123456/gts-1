@@ -125,16 +125,29 @@
   cursor: pointer;
   transition: 0.4s;
 }
-a .card-img-home,.list-game {
+a .card-img-home{
   cursor: pointer;
   outline: -webkit-focus-ring-color auto 1px;
   transition: 0.4s;
   height: 100px;
   width: 100%;
 }
+.list-game {
+  text-align: center;
+  cursor: pointer;
+  outline: -webkit-focus-ring-color auto 1px;
+  transition: 0.4s;
+  width: 100%;
+  background: #c59d00;
+}
 a .card-img-home img,.list-game img {
   width: 100%;
   height: 100%;
+  object-fit: cover;
+}
+.list-game img{
+  width: 180px;
+  height: 120px;
   object-fit: cover;
 }
 a .card-img-home:hover,.list-game:hover {

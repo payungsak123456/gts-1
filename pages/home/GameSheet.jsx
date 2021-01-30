@@ -7,7 +7,26 @@ export default function GameSheet() {
 				<div className="pt-5 text-center">
 					<h3 className="text-neno-titel">เว็บคาสิโน จากค่ายชั้นนำ</h3>
 				</div>
-				<div className="cards-list"></div>
+				<div className="box-game">
+					<Link href="/login">
+						<a className="list-game">
+							<div >
+								<img src="https://sv1.picz.in.th/images/2021/01/25/lHONbt.png" alt="Virtual,Sports,Virtual+Sports,แทงบอลออนไลน์" />{" "}
+								<p className="m-0" style={{ color: "beige" }}>แทงบอลออนไลน์</p>
+							</div>
+						</a>
+					</Link>
+					<Link href="/login">
+						<a>
+							<div className="list-game">
+								{" "}
+								<img src="https://sv1.picz.in.th/images/2021/01/25/lHEJeb.png" alt="Ebet,บาคารา" />{" "}
+								<p className="m-0" style={{ color: "beige" }}>บาคาราออนไลน์</p>
+
+							</div>
+						</a>
+					</Link>
+				</div>
 				<div className="row text-center " style={{ color: "beige" }}>
 					<div className="col-lg-3 col-md-4 col-xs-4 col-sm-5 p-md-3 check">
 						<Link href="/login">
@@ -142,22 +161,9 @@ export default function GameSheet() {
 						</Link>
 					</div>
 				</div>
-			</div>
-			<Container className="box-game">
-				<div className="pt-5 text-center">
-				<Link href="/login">
-							<a>
-								<div className="card-img-home">
-									{" "}
-									<img src="https://sv1.picz.in.th/images/2021/01/25/lHONbt.png" alt="Virtual,Sports,Virtual+Sports,แทงบอลออนไลน์" />{" "}
-								</div>
-								<p className="m-0" style={{ color: "beige" }}>แทงบอลออนไลน์</p>
-							</a>
-						</Link>
-				</div>
-					
 
-			</Container>
+			</div>
+
 		</>
 	);
 }
