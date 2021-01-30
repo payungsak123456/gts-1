@@ -59,30 +59,6 @@ export default function TheMobileMenu() {
 						<a>
 							<img
 								className="contact-icon lazyloaded"
-								alt="follower ufadeal"
-								width="24px"
-								height="24px"
-								src="https://sv1.picz.in.th/images/2021/01/29/lJmoAP.png"
-								data-ll-status="loaded"
-							/>
-							<noscript>
-								<img
-									className="contact-icon"
-									alt="follower ufadeal"
-									width="24px"
-									height="24px"
-									src="https://sv1.picz.in.th/images/2021/01/29/lJmoAP.png"
-								/>
-							</noscript>
-							<span className="text-contact contact-info">สมัครทาง line</span>
-						</a>
-					</Link>
-				</div>
-				<div className="o-contact">
-					<Link href="https://lin.ee/KE4VK7d">
-						<a>
-							<img
-								className="contact-icon lazyloaded"
 								alt="coin ufadeal"
 								width="24px"
 								height="24px"

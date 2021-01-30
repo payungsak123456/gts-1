@@ -31,7 +31,7 @@ export default function MyApp({ Component, pageProps }) {
         {/* <!-- responsive --> */}
         <link rel="stylesheet" href="assets/css/responsive.css"></link>
         <script async src='https://www.google-analytics.com/analytics.js'></script>
-
+        <link rel="stylesheet" href="assets/scss/style.sxss" />
       </Head>
       <DefaultSeo {...SEO} />
       <Component {...pageProps} />
