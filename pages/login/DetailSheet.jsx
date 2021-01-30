@@ -39,7 +39,7 @@ export default function DetailSheet() {
                         </a>
                     </span>
                     <span className="pr-2">
-                        <a href="https://lin.ee/KE4VK7d">
+                        <a href="https://lin.ee/SGc236G">
                             สมัครผ่านไลน์
                         </a>
                     </span>
