@@ -109,14 +109,13 @@ export default function DetailSheet() {
 			<div className="row">
 				<div className="col-lg-7">
 					<div className="videoWrapper">
-						<iframe
-							width="100%"
-							height="315"
-							src="https://www.youtube.com/embed/mfqJyKm20Z4"
-							frameBorder="0"
-							allow="autoplay; encrypted-media"
-							allowFullScreen
-						></iframe>
+					<iframe 
+					width="560" 
+					height="315" 
+					src="https://www.youtube.com/embed/e5ypJPq1gsE" 
+					frameborder="0" 
+					allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+					allowfullscreen></iframe>
 					</div>
 				</div>
 				<div className="col-lg-5">
