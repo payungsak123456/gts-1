@@ -7,7 +7,7 @@ export default function Home() {
 			<TheLayout>
 				<HomePage/>
 			</TheLayout>
-			<ThePopup/>
+			{/* <ThePopup/> */}
 		</div>
 	);
 }
