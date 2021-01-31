@@ -10,6 +10,7 @@ export default function HomePage() {
       <SlideSheet/>
       <DetailSheet/>
       <GameSheet/>
+			<ThePopup/>
       </>
     );
   }
