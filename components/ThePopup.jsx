@@ -10,7 +10,9 @@ export default function ThePopup() {
                 <Modal.Header closeButton>
                 </Modal.Header>
                 <Modal.Body>
+                <a href="https://lin.ee/SGc236G">
                     <Image src="https://sv1.picz.in.th/images/2021/01/30/lmQwh0.jpg"alt="คาสิโนออนไลน์,แทงบอล,ยิงปลา" className="border border-white rounded" />
+                </a>   
                 </Modal.Body>
             </Modal>
         </>

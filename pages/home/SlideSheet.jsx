@@ -17,7 +17,7 @@ export default function SlideSheet() {
 				</ol>
 				<div className="carousel-inner">
 					<div className="carousel-item active">
-					<a href="https://lin.ee/KE4VK7d">
+					<a href="https://lin.ee/SGc236G">
 						<img
 							src="assets/images/pera1.jpg"
 							className="d-block w-100"
@@ -26,7 +26,7 @@ export default function SlideSheet() {
 						</a>
 					</div>
 					<div className="carousel-item">
-					<a href="https://lin.ee/KE4VK7d">
+					<a href="https://lin.ee/SGc236G">
 						<img
 							src="assets/images/pera2.jpg"
 							className="d-block w-100"
@@ -35,7 +35,7 @@ export default function SlideSheet() {
 						</a>
 					</div>
 					<div className="carousel-item">
-					<a href="https://lin.ee/KE4VK7d">
+					<a href="https://lin.ee/SGc236G">
 						<img
 							src="/assets/images/home/pera4.png"
 							className="d-block w-100"

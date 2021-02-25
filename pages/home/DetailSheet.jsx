@@ -17,7 +17,8 @@ export default function DetailSheet() {
 								เป็นเว็บไซต์ คาสิโนครบวงจร
 								<b className="text-neno-titel"> บาคาร่า</b> ไพ่เสือมังกร
 								สล็อต(Slot)<b className="text-neno-titel"> เกมส์ยิงปลา</b>{" "}
-								แทงบอล ลอตเตอรี่ หวยจากค่าย UFA และอื่นๆ
+								แทงบอล ลอตเตอรี่ หวยจากค่าย <b className="text-neno-titel">UFA SAgame </b>และอื่นๆ ได้แก่   SASEXY , JOKER ,
+										PG , WM , PRETTY , AG , AMB , DG Casino
 								รวมค่ายคาสิโนชั้นนำของโลกเข้ามาไว้ให้เล่นกันมากมาย อยากเล่นอะไร
 								ยิงปลา บาคาร่า <b className="text-neno-titel">แทงบอล</b>{" "}
 								จบที่เว็บเดียวการสมัครสมาชิกก็ง่ายสะดวกรวดเร็วด้วยทีมงานที่มีประสบการณ์มากมายฝากถอนรวดเร็วทันใจ
@@ -51,9 +52,9 @@ export default function DetailSheet() {
 											คาสิโนครบวงจร
               </b>{" "}
 										บาคาร่า ไพ่เสือมังกร สล็อต(Slot) <b className="text-neno-titel f-s-20">เกมส์ยิงปลา</b> <b className="text-neno-titel f-s-20">แทงบอล</b>
-										ลอตเตอรี่ หวย จากค่าย UFA และ รวมค่ายคาสิโนชั้นนำของโลก
-										เข้ามาไว้ให้เล่นกันมากมาย ได้แก่ UFA, SA , SASEXY , JOKER ,
-										PG , WM , PRETTY , AG , AMB , DG Casino
+										ลอตเตอรี่ หวย จากค่าย<b className="text-neno-titel f-s-20"> UFA SAgame</b> และ รวมค่ายคาสิโนชั้นนำของโลก
+										เข้ามาไว้ให้เล่นกันมากมาย ได้แก่  <b className="text-neno-titel f-s-20">UFA, SA , SASEXY , JOKER ,
+										PG , WM , PRETTY , AG , AMB , DG Casino</b>
 										และอีกมากมายอยากเล่นอะไร ยิงปลา บาคาร่า แทงบอล
 										จบที่เว็บเดียว การสมัครสมาชิกก็ง่ายสะดวก
 										รวดเร็วด้วยทีมงานที่มีประสบการณ์มากมาย
