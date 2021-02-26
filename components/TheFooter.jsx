@@ -48,7 +48,7 @@ export default function TheFooter() {
 											</Link>
 										</li>
 										<li className="nav-item py-0">
-											<Link href="/casino">
+											<Link href="">
 												<a>คาสิโนออนไลน์</a>
 											</Link>
 										</li>
