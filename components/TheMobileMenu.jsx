@@ -103,7 +103,7 @@ export default function TheMobileMenu() {
 					</Link>
 				</div>
 				<div className="o-contact">
-					<Link href="https://lin.ee/SGc236G" target="_blank">
+					<Link href="https://lin.ee/SGc236G">
 						<a>
 							<img
 								className="contact-icon lazyloaded"
