@@ -9,8 +9,8 @@ export default function HomePage() {
       <>
       <NextSeoPage/>
       <SlideSheet/>
-      <DetailSheet/>
       <GameSheet/>
+      <DetailSheet/>     
 			<ThePopup/> 
       </>
     );
