@@ -26,7 +26,7 @@ export default function MyApp({ Component, pageProps }) {
         <link rel="stylesheet" href="assets/css/home.css" />
         <link rel="stylesheet" href="assets/css/shootfish.css" />
         <link rel="stylesheet" href="assets/css/slot.css" />
-        <link rel="stylesheet" href="assets/css/login.css" />
+        <link rel="stylesheet" href="assets/csshttps://customer.gtsgold168.com.css" />
         <link rel="stylesheet" href="assets/css/register.css" />
         {/* <!-- responsive --> */}
         <link rel="stylesheet" href="assets/css/responsive.css"></link>

@@ -11,7 +11,7 @@ export default function GameSheet() {
 				</div>
 				<div className="cards-list">
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -21,7 +21,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -31,7 +31,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -41,7 +41,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -51,7 +51,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -61,7 +61,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -71,7 +71,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -81,7 +81,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -91,7 +91,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -101,7 +101,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -111,7 +111,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -121,7 +121,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -131,7 +131,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -141,7 +141,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -151,7 +151,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -161,7 +161,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -171,7 +171,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -181,7 +181,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -191,7 +191,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -201,7 +201,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -211,7 +211,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -221,7 +221,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -231,7 +231,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -241,7 +241,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -251,7 +251,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -261,7 +261,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -271,7 +271,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -281,7 +281,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -291,7 +291,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -301,7 +301,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -311,7 +311,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -321,7 +321,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -331,7 +331,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -341,7 +341,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}
@@ -351,7 +351,7 @@ export default function GameSheet() {
 						</Link>
 					</div>
 					<div className="card 1">
-						<Link href="/login">
+						<Link href="https://customer.gtsgold168.com">
 							<a>
 								<div className="card_image">
 									{" "}

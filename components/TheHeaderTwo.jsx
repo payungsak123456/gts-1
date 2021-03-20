@@ -5,7 +5,7 @@ export default function TheHeaderTwo() {
 	return (
 		<>
 			<div className="mx-5 pt-2 menu-logo d-lg-none" >
-				<Link href="/login">
+				<Link href="https://customer.gtsgold168.com">
 					<a>
 						<img
 							className="contact-icon lazyloaded "
@@ -31,14 +31,14 @@ export default function TheHeaderTwo() {
 							style={{ position: "relative", objectFit: "contain" }}
 						/>
 					</Navbar.Brand>
-					<Navbar.Brand href="/login" className="menu-plus d-lg-none">
+					<Navbar.Brand href="https://customer.gtsgold168.com" className="menu-plus d-lg-none">
 						<img
 							alt=""
 							src="https://sv1.picz.in.th/images/2021/01/28/lGrKd8.png"
 							className="align-top"
 						/>
 					</Navbar.Brand>
-					<Navbar.Brand href="/register" className="menu-plus d-lg-none">
+					<Navbar.Brand href="https://customer.gtsgold168.com/register?agent=gclub" className="menu-plus d-lg-none">
 						<img
 							alt=""
 							src="https://sv1.picz.in.th/images/2021/01/28/lGrZZR.png"

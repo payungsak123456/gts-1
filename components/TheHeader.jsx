@@ -19,7 +19,7 @@ export default function TheHeader() {
 				>
 			
 						{/* <div className="o-contact" style={{ width: "100%",paddingLeft:"20%",paddingRight:"20%" }}>
-							<Link href="/login">
+							<Link href="https://customer.gtsgold168.com">
 								<a>
 									<img
 										className="contact-icon lazyloaded m-0"
