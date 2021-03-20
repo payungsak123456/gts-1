@@ -5,7 +5,7 @@ export default function TheMobileMenu() {
 		<>
 			<div className="m-contact">
 				<div className="o-contact">
-					<Link href="/register">
+					<Link href="https://customer.gtsgold168.com/register?agent=gclub">
 						<a>
 							<img
 								className="contact-icon lazyloaded"
@@ -29,7 +29,7 @@ export default function TheMobileMenu() {
 					</Link>
 				</div>
 				<div className="o-contact">
-					<Link href="/login">
+					<Link href="https://customer.gtsgold168.com">
 						<a>
 							<img
 								className="contact-icon lazyloaded"
@@ -79,7 +79,7 @@ export default function TheMobileMenu() {
 					</Link>
 				</div>
 				<div className="o-contact">
-					<Link href="https://lin.ee/SGc236G">
+					<Link href="https://customer.gtsgold168.com">
 						<a>
 							<img
 								className="contact-icon lazyloaded"

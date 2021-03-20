@@ -72,7 +72,7 @@ export default function TheHeaderTwo() {
 								</Link>
 							</div>
 							<div className="nav-link">
-								<Link className="nav-custom-gts" href="/login">
+								<Link className="nav-custom-gts" href="https://customer.gtsgold168.com">
 									เข้าสู่เกมส์
 								</Link>
 							</div>
