@@ -11,7 +11,7 @@ export default function ThePopup() {
                 </Modal.Header>
                 <Modal.Body>
                 <a href="https://customer.gtsgold168.com/register?agent=gclub">
-                    <Image src="https://sv1.picz.in.th/images/2021/01/30/lmQwh0.jpg"alt="คาสิโนออนไลน์,แทงบอล,ยิงปลา" className="border border-white rounded" />
+                    <Image src="https://sv1.picz.in.th/images/2021/03/25/DuKqw1.jpg"alt="คาสิโนออนไลน์,แทงบอล,ยิงปลา" className="border border-white rounded" />
                 </a>   
                 </Modal.Body>
             </Modal>
