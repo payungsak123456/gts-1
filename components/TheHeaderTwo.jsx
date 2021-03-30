@@ -38,7 +38,7 @@ export default function TheHeaderTwo() {
 							className="align-top"
 						/>
 					</Navbar.Brand>
-					<Navbar.Brand href="https://customer.gtsgold168.com/register?agent=gclub" className="menu-plus d-lg-none">
+					<Navbar.Brand href="https://customer.gtsgold168.com/register?agent=ufa" className="menu-plus d-lg-none">
 						<img
 							alt=""
 							src="https://sv1.picz.in.th/images/2021/01/28/lGrZZR.png"
