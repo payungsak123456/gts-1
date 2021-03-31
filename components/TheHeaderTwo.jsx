@@ -31,17 +31,17 @@ export default function TheHeaderTwo() {
 							style={{ position: "relative", objectFit: "contain" }}
 						/>
 					</Navbar.Brand>
-					<Navbar.Brand href="https://customer.gtsgold168.com" className="menu-plus d-lg-none">
+					<Navbar.Brand href="https://customer.gtsgold168.com/register?agent=gclub" className="menu-plus d-lg-none">
 						<img
 							alt=""
-							src="https://sv1.picz.in.th/images/2021/01/28/lGrKd8.png"
+							src="https://sv1.picz.in.th/images/2021/03/31/DGklxy.png"
 							className="align-top"
 						/>
 					</Navbar.Brand>
 					<Navbar.Brand href="https://customer.gtsgold168.com/register?agent=ufa" className="menu-plus d-lg-none">
 						<img
 							alt=""
-							src="https://sv1.picz.in.th/images/2021/01/28/lGrZZR.png"
+							src="https://sv1.picz.in.th/images/2021/03/31/DGkj41.png"
 							className="align-top"
 						/>
 					</Navbar.Brand>
